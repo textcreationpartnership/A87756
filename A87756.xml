@@ -1,0 +1,1018 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new and useful catechism; very necessary and teachable both for children and young Christians. : Wherein is contained by way of question and answer a brief discovery ... / by Manasseth King.</title>
+            <author>King, Manasseth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 103 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87756</idno>
+            <idno type="STC">Wing K512AB</idno>
+            <idno type="STC">ESTC R202442</idno>
+            <idno type="EEBO-CITATION">43663301</idno>
+            <idno type="OCLC">ocm 43663301</idno>
+            <idno type="VID">172060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2612:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new and useful catechism; very necessary and teachable both for children and young Christians. : Wherein is contained by way of question and answer a brief discovery ... / by Manasseth King.</title>
+                  <author>King, Manasseth.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The third edition, corrected and amended with large additions.</edition>
+               </editionStmt>
+               <extent>72 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the Year 1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped, with loss of print.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172060:1" rendition="simple:additions"/>
+            <p>A NEW and USEFUL CATECHISM; Very neceſſary and teachable, both for Children and young Chriſtians.</p>
+            <p>Wherein is contained, by way of <hi>Queſtion</hi> and <hi>Anſwer,</hi> a brief Diſcovery of theſe Things;
+<list>
+                  <item>1. What is God.</item>
+                  <item>2. How he may be known.</item>
+                  <item>3. What Man's State is, by reaſon of the Fall of <hi>Adam,</hi> and his own actual Sins.</item>
+                  <item>4. What Chriſt is, and the glorious Remedy God hath provided for Sinners, in ſending his Son in<g ref="char:EOLhyphen"/>to the World.</item>
+                  <item>5. That the Scriptures are the undoubted Mind and Will of God, for Men and Chriſtians to walk by; evident by ſix Reaſons.</item>
+                  <item>6. What our Duty is to Chriſt, in Matter of Wor<g ref="char:EOLhyphen"/>ſhip and holy Converſation.</item>
+                  <item>7. Some few <hi>Queſtions</hi> and <hi>Anſwers,</hi> relating to the Duty of Children and Servants in particular.</item>
+               </list>
+            </p>
+            <p>The third Edition, Corected and Amended, with large Additions, by <hi>MANASSETH KING,</hi> Paſtor to the Church of Chriſt in <hi>Coventry.</hi>
+            </p>
+            <q>Parents, bring up your Children in the Nurture and Admoni<g ref="char:EOLhyphen"/>tion of the Lord,
+<bibl>
+                  <hi>Epheſ. 6.4.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1693.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172060:2"/>
+            <pb n="iii" facs="tcp:172060:2"/>
+            <head>TO THE READER.</head>
+            <p>FOr aſ much as I have obſerved, that among the many great and little Books, there have been ſcarce any that have minded this Work, of publiſhing any thing tending to the inſtructing of Youth in the Things of the Lord, in ſuch a way as may be by Parents or Maſters eaſily by way of Queſtion asked, and by way of An<g ref="char:EOLhyphen"/>ſwer eaſily learned by Children or Servants: I have therefore, as one of thoſe that bear good-will to the Education of Youth, and the Edification of others; and ſo far as I know my own Heart, to the eternal Salvation of all whom Jeſus Chriſt hath died for, have ſingly in this intended the Glory of God, in whoſe Hand is all our Breaths, and do humbly offer this as tending thereto in this en<g ref="char:EOLhyphen"/>ſuing Dialogue; deſiring that if my Know<g ref="char:EOLhyphen"/>ledg may not be ſo great as others, nor my Judg<g ref="char:EOLhyphen"/>ment ſo regulated according to the Scriptures of Truth as others, that it may not prejudice them againſt what Truth they may find, nor hin<g ref="char:EOLhyphen"/>der, but rather further them to the bringing forth a more excellent Piece of this Nature; and then I am ſure God will have the Glory, Souls may have
+<pb n="iv" facs="tcp:172060:3"/>the Benefit, many Families that too much, yea, I judg ſinfully neglect the inſtructing of their Chil<g ref="char:EOLhyphen"/>dren or Servants under their Charge, receive more Benefit: <hi>not knowing,</hi> as the Apoſtle ſaith, <hi>but thou, O Man, mayſt ſave thy Wife.</hi> So what knoweſt thou, O Father, but thou by thy care in bringing up thy Child in the Nurture and Admo<g ref="char:EOLhyphen"/>nition of the Lord, mayeſt ſave thy Child, thy Servant; thy Patterns or Examples being daily agreeable to thy Inſtruction: and thy neglect of this Duty may be ſad upon the Day of thy Account, when the Blood of any poor Soul living in thy Fa<g ref="char:EOLhyphen"/>mily may be required at thy Hand, becauſe thou didst not do thy utmoſt in the uſe of the Means God hath appointed to reclaim them from Evil, and the Snares of Death, and to bring them to the under<g ref="char:EOLhyphen"/>ſtanding of the Will and Work of God appointed for them to obſerve. Among the reſt of thoſe great Endeavours of many of the Lord's People in other things, I do here preſent thee with a few <hi>Queſtions</hi> and <hi>Anſwers</hi> grounded upon Scripture, which I ſhall beg thy Eſteem of no farther, than thou findeſt them agree with the Law and Teſti<g ref="char:EOLhyphen"/>mony, <hi>Iſa. 8.</hi> and deſire from my Soul, that eve<g ref="char:EOLhyphen"/>ry Man and Woman, Child and Servant, may learn to know the Things that belong to their Peace, and may eſcape the Snares of Death; in which I deſire to remain one that am commanded to love my Neighbour as my ſelf.</p>
+            <closer>
+               <signed>Manaſſeth King.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="v" facs="tcp:172060:3"/>
+            <head>
+               <hi>The Child's Inſtructor:</hi> OR, <hi>Brother</hi> Benjamin Keach<hi>'s Verſes.</hi>
+            </head>
+            <lg>
+               <l>O Child moſt dear, encline thine Ear,</l>
+               <l>And hearken to God's Voice:</l>
+               <l>His Counſel take, and that will make</l>
+               <l>God's Angels to rejoice.</l>
+               <l>Be not like thoſe, that Grace oppoſe,</l>
+               <l>And give their Minds to play:</l>
+               <l>But let thy Mind be well inclin'd,</l>
+               <l>In ſeeking Wiſdom's Way.</l>
+               <l>Learn in thy Youth, God's holy Truth,</l>
+               <l>Chriſt's bleſſed Croſs to bear:</l>
+               <l>And ſo ſhalt thou, though hated now,</l>
+               <l>In Heaven have a ſhare.</l>
+               <l>Don't lie nor ſwear, to ſteal don't dare,</l>
+               <l>Have a care of ſuch Evils:</l>
+               <l>For ſuch muſt die, and in Hell lie,</l>
+               <l>With damned Souls and Devils.</l>
+               <l>In a right way, thou muſt obey,</l>
+               <l>Thy Father and thy Mother:</l>
+               <l>As alſo right, in God's dear ſight,</l>
+               <l>To love Siſter and Brother.</l>
+               <pb n="vi" facs="tcp:172060:4"/>
+               <l>Let not vain Pleaſure, nor earthly Treaſure</l>
+               <l>Thy Soul ſeek and deſire:</l>
+               <l>For theſe things know, God will o'rthrow</l>
+               <l>with his conſuming Fire.</l>
+               <l>Spend all thy Days in righteous Ways,</l>
+               <l>God's holy Name to hallow:</l>
+               <l>That at thy laſt, thy Days being paſt,</l>
+               <l>A bleſſed End may follow.</l>
+               <l>And though thou die, and in Grave lie,</l>
+               <l>Yet Chriſt will thee awake:</l>
+               <l>And Angels ſend thee to attend,</l>
+               <l>And into's Kingdom take.</l>
+               <l>Where thou ſhalt reſt, with Saints the beſt,</l>
+               <l>And pray that ſo may I,</l>
+               <l>And have the Crown of bleſs'd Renown,</l>
+               <l>God's Name to magnify.</l>
+               <l>That thou with Chriſt in Paradiſe,</l>
+               <l>For ever mayeſt dwell.</l>
+               <l>Thus do thou pray, both Night and Day,</l>
+               <l>And ſo dear Child farewel.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:172060:4"/>
+            <head>A New and Uſeful CATECHISM.</head>
+            <p>QUeſtion. <hi>What is God?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> A Spirit, a King Immortal, only Wiſe, Holy, Merciful, Juſt, All-ſeeing, a Heart-ſearching <hi>Jehovah,</hi> Joh. 4.24. 1 <hi>Tim.</hi> 6.15. 1 <hi>Pet.</hi> 1.15. <hi>Epheſ.</hi> 2.4. <hi>Pſal.</hi> 86.5. <hi>Prov.</hi> 15.3. <hi>Iſa.</hi> 45.21.</p>
+            <p>Queſt. <hi>How may he be known?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By his Works, Attributes, and his Word, <hi>Rom.</hi> 2.14, 15. <hi>Micah</hi> 7.18. <hi>Iſa.</hi> 9.6. <hi>Job</hi> Chap. 38, 39. <hi>Exod.</hi> 34.6, 7, 8.</p>
+            <p>Queſt. <hi>What are his Works?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> He made Heaven, Earth, the Sea, and all that in them is, in ſix Days, and reſted the ſeventh Day, and ſaw all things to be ex<g ref="char:EOLhyphen"/>ceeding Good.</p>
+            <p>Queſt. <hi>What is wonderful in his Works further?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His making all Things of Nothing, his pre<g ref="char:EOLhyphen"/>ſerving all things by his Mercy &amp; Power, calleth for the Waters out of the Sea, poureth them out upon the Earth, <hi>Amos</hi> 5.8. Gives the Sun for a Light by Day, and the Moon and Stars by Night; giveth the Rainbow as a Sign that the World ſhall be no more drowned, placing
+<pb n="8" facs="tcp:172060:5"/>Virtue, and Operation in every Herb, Tree, Plant, for the uſe and benefit of his Creature, Man. And for a further diſcovery, take notice of <hi>Job</hi> 38 &amp; 39 Chapters, <hi>Gen.</hi> 9.13. <hi>Gen.</hi> 1.28, 29, 30.</p>
+            <p>Queſt. <hi>What are his Attributes?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> His Wiſdom, his Holineſs, his Ju<g ref="char:EOLhyphen"/>ſtice, his Mercy, his Faithfulneſs, his Allſeeing<g ref="char:EOLhyphen"/>neſs, and his Infiniteneſs in them, and Immor<g ref="char:EOLhyphen"/>tality and Immutability, 1 <hi>Tim.</hi> 6.15. 1 <hi>Cor.</hi> 10.13. <hi>Rev.</hi> 15.4. <hi>Pſal.</hi> 139.2.</p>
+            <p>Queſt. <hi>What is his Word?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That which declareth him ſo to be, and proceedeth from himſelf, <hi>Pſal.</hi> 19.1, 2, 3, 4, 5, 6, 7.</p>
+            <p>Queſt. <hi>Why did God create all things?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For his Pleaſure all things are and were created, <hi>Rev.</hi> 4.11.</p>
+            <p>Queſt. <hi>Did God create any Man on purpoſe to damn him?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> No; for he ſaith, As I live, I deſire not the Death of a Sinner, but rather that he may turn and live, <hi>Ezek.</hi> 18.22, 23, 24. &amp; 33.11.</p>
+            <p>Q. <hi>What was Man made of?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Duſt of the Earth, <hi>Gen.</hi> 2.7.</p>
+            <p>Q. <hi>After what manner was he made?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is ſaid to be created after God's own Image, having Dominion over all the earthly Creatures, <hi>Gen.</hi> 1.27, 28.</p>
+            <p>Q. <hi>What did God give to</hi> Adam <hi>at the firſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He gave him a pleaſant Paradiſe, and a Law; That of every Tree in the Garden he
+<pb n="9" facs="tcp:172060:5"/>might eat; but of the Tree of Knowledg of Good and Evil he ſhould not eat; for in the Day he eat thereof, he ſhould ſurely die, <hi>Gen.</hi> 2.17.</p>
+            <p>Q. <hi>How came</hi> Adam <hi>to break the Law given unto him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Woman's yielding to the Serpent, did take and eat of the forbidden Fruit, and ſhe gave to her Husband, and he did eat, <hi>Gen.</hi> 3.6.</p>
+            <p>Q. <hi>Did</hi> Eve <hi>being, tempted or provoked to eat by the Serpent, or</hi> Adam <hi>by the Woman, excuſe their Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No; for God paſſeth Sentence upon them both, and alſo upon the Serpent.</p>
+            <p>Q. <hi>What Miſery fell they under as their Pu<g ref="char:EOLhyphen"/>niſhment?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To the Woman God ſaith, I will greatly multiply thy Sorrows, and thy Conceptions; in Sorrow ſhalt thou bring forth Children, and thy deſire ſhall be to thy Husband, and he ſhall rule over thee, <hi>Gen.</hi> 3.16.</p>
+            <p>Q. <hi>What did God ſay to</hi> Adam?</p>
+            <p>
+               <hi>A.</hi> Becauſe thou haſt hearkened to the Voice of thy Wife, the Ground ſhall be curſed for thy ſake; Thorns and Thiſtles ſhall it bring forth; thou ſhalt in the ſweat of thy Face eat thy Bread, until thou return unto the Duſt; for Duſt thou art, and unto Duſt thou ſhalt return. He was alſo aſhamed of his Nakedneſs, feared to appear before his Maker, turned out of Para<g ref="char:EOLhyphen"/>diſe, and Cherubims ſet to keep the Way of the Tree of Life with flaming Swords, that he might not eat thereof, leſt he live for ever, <hi>Gen.</hi> 3.17, 18, 19, 22, 23, 24.</p>
+            <pb n="10" facs="tcp:172060:6"/>
+            <p>Q. <hi>Here is ſad News of Death, and Mortality, and Pain, and loſing of a pleaſant Paradiſe: How came the happy News of Life immortal, and en<g ref="char:EOLhyphen"/>joying of a heavenly Paradiſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Through a ſecond <hi>Adam,</hi> Chriſt Jeſus, who hath aboliſhed Death, and hath brought Life and Immortality unto Light, through the Goſpel. 2 <hi>Tim.</hi> 1.10. <hi>Heb.</hi> 2.14. 1 <hi>Cor.</hi> 15.22. <hi>Gen.</hi> 3.15.</p>
+            <p>Q. <hi>What is Jeſus Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Son of God, the Saviour of poor, loſt, worthleſs, ſtraying Sinners.</p>
+            <p>Q. <hi>How may that appear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Wonders wrought at his Concep<g ref="char:EOLhyphen"/>tion, at his Birth, by himſelf whilſt on Earth perſonally, at his Transfiguration, at his Bap<g ref="char:EOLhyphen"/>tiſm, at his Death, at his Reſurrection.</p>
+            <p>Q. <hi>What was wrought in a miraculous way at his Conception?</hi>
+            </p>
+            <p>
+               <hi>A. Mary</hi> with Child by the Holy Ghoſt, and not after any ordinary manner, <hi>Mat.</hi> 1.16. <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> being eſpouſed unto her, thought to put her away, not knowing what was done; but an Angel appeared to ſatisfy him, and directed him to call his Name <hi>Jeſus,</hi> for he ſhould ſave his People from their Sins, <hi>Mat.</hi> 1.21.</p>
+            <p>Q. <hi>What Wonder was done at his Birth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Star aroſe out of the Eaſt, which the Wiſe-men followed, till it ſtood ſtill over the Place where the young Child lay, <hi>Mat.</hi> 2.10.</p>
+            <p>Q. <hi>What elſe was done at his Birth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Their rejoicing and worſhipping of him;
+<pb n="11" facs="tcp:172060:6"/>
+               <hi>Herod</hi>'s cruel Deſign fruſtrated, as relating to the killing of the Babe, by the Lord's appear<g ref="char:EOLhyphen"/>ing unto them in a Dream, and ſending them another way, <hi>Mat.</hi> 2.12.</p>
+            <p>Q. <hi>What elſe was wonderful?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> An Angel appearing unto two Shepherds in great Glory, ſaying, Fear not, for I bring you glad Tidings, which ſhall be to all People; for unto you is born this Day, in the City of <hi>David,</hi> a Saviour, Chriſt the Lord.</p>
+            <p>Q. <hi>What elſe was wrought wonderfully at his Birth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A heavenly Hoſt immediately appearing, praiſing God, and ſaying, Glory to God in the Higheſt, on Earth Peace, Good-will towards Men, <hi>Luke</hi> 2.9, 10, 11, 12, 13, 14.</p>
+            <p>Q. <hi>What Wonders were wrought in his Life-time?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Diſputing with the Doctors at twelve Years of Age; rebuking violent Diſeaſes, and they departed by the Word of his Mouth, <hi>Joh.</hi> 4.10. turned Water into Wine, <hi>John</hi> 2.9. rai<g ref="char:EOLhyphen"/>ſed the Dead, cleanſed the Lepers; the Lame walk, the Blind ſee, the Deaf hear, the Dumb ſpeak, <hi>Mat.</hi> 11.5. Rather than he will give Of<g ref="char:EOLhyphen"/>fence, cauſeth Money to be taken out of a Fiſh's Mouth, <hi>Mat.</hi> 17.27.</p>
+            <p>Q. <hi>What elſe was wrought by Chriſt in his Life-time?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Wind and the Sea obey him, and are calm at his Command, <hi>Mat.</hi> 8.26, 27. Five thou<g ref="char:EOLhyphen"/>ſand fed with five Loaves, and two little Fiſhes, <hi>Mat.</hi> 14.19, 20, 21.</p>
+            <pb n="12" facs="tcp:172060:7"/>
+            <p>Q. <hi>What was wonderful at his Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Spirit of God lighting upon him as a Dove, as he came out of the Water, teſtify<g ref="char:EOLhyphen"/>ing that he was the Son of God, in whom he was well-pleaſed, <hi>Mat.</hi> 3.16. Alſo at his being transfigured upon the Mount, his Face did ſhine as the Sun, and his Raiment white as the Light, a bright Cloud over-ſhadowed them, and a Voice out of the Cloud, ſaying, This is my beloved Son, in whom I am well-pleaſed, hear ye him, <hi>Mat.</hi> 17.2.</p>
+            <p>Q. <hi>What was done at his Death?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Vail of the Temple rent, to ſignify the End of thoſe Types, he being the Subſtance, <hi>Heb.</hi> 9.11. and Darkneſs over all the Earth, from the 6th Hour to the 9th Hour, <hi>Luke</hi> 23.44. the Earth did quake, and the Rocks rent, and the Graves were opened; and many of the dead Bodies of the Saints which ſlept, aroſe after his Reſurrection, and went into the holy City, <hi>Mat.</hi> 27.51, 52, 53.</p>
+            <p>Q. <hi>What Wonders were wrought at his Reſur<g ref="char:EOLhyphen"/>rection?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A great Earthquake; an Angel deſcend<g ref="char:EOLhyphen"/>ing from Heaven, and came and rolled the Stone from the Door, and ſat upon it; his Coun<g ref="char:EOLhyphen"/>tenance like Lightning, and his Raiment white as Snow: and for fear of him the Keepers did ſhake, and became as dead Men, telling the Wo<g ref="char:EOLhyphen"/>men that Chriſt was riſen, ſhewing them the Place where the Lord lay; and ſaid unto them, Go quickly and tell his Diſciples, he is riſen
+<pb n="13" facs="tcp:172060:7"/>from the Dead. <hi>Matth.</hi> 28.2, 3, 4, 5, 6, 7.</p>
+            <p>Q. <hi>How long was it from his Death to his Aſ<g ref="char:EOLhyphen"/>cenſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Forty Days, ſpeaking to them of the things concerning the Kingdom of God, <hi>Act.</hi> 1.3.</p>
+            <p>Q. <hi>What was done at his Aſcenſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two Men ſtanding by the Diſciples in white Apparel, teſtifying that the ſame Jeſus whom they had ſeen aſcend into Heaven, ſhould ſo come in like manner as ye have ſeen him go into Heaven, <hi>Acts</hi> 1.11.</p>
+            <p>Q. <hi>What was done after his Aſcenſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Diſciples being together, and pray<g ref="char:EOLhyphen"/>ing upon the Day of Pentecoſt, they received the Promiſe of the Spirit, and were filled with the Holy Ghoſt, ſo as that they were able to ſpeak to the underſtanding of all Nations; and Gifts beſtowed upon them and others, for the Edification of the Church, perfecting of the Saints for the Work of the Miniſtry: this ap<g ref="char:EOLhyphen"/>pears from theſe Scriptures, <hi>Acts</hi> 2.3. <hi>Eph.</hi> 4.8. 1 <hi>Cor.</hi> 12.7.</p>
+            <p>Q. <hi>VVhat did the Lord Jeſus come into the VVorld to do?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He came to ſeek and ſave them that were loſt, to give the knowledg of Salvation and Remiſſion of Sins; to give Light to them that ſat in Darkneſs, and the ſhadow of Death; to guide our Feet in the Path of Peace, <hi>Luk.</hi> 19.10. &amp; 1.77, 78, 79. &amp; 24.47. and to deſtroy the Works of the Devil, 1 <hi>John</hi> 3.8.</p>
+            <p>Q. <hi>How came Man into his loſt miſerable Eſtate?</hi>
+            </p>
+            <pb n="14" facs="tcp:172060:8"/>
+            <p>
+               <hi>A.</hi> By Sin.</p>
+            <p>Q. <hi>VVhat is Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the Tranſgreſſion of the Law, <hi>Rom.</hi> 7.7. 1 <hi>Joh.</hi> 3.4.</p>
+            <p>Q. <hi>VVhat Means hath Chriſt uſed to ſeek and ſave them that are loſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He hath, by the means of Death, redeem<g ref="char:EOLhyphen"/>ed us from him that had the Power of Death, even the Devil; and deliver'd them who thrô fear of Death, were all their Life-time ſubject to Bondage. He was wounded for our Iniqui<g ref="char:EOLhyphen"/>ties, broken for our Tranſgreſſions; the Cha<g ref="char:EOLhyphen"/>ſtiſement of our Peace was upon him, and thrô his Stripes we are healed: He poured out his Soul unto Death, and made Interceſſion for Tranſgreſſors.</p>
+            <p>Q. <hi>Did he do this for all Men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea, all have, like Sheep, gone aſtray; and the Lord hath laid upon him the Iniquity of us all.</p>
+            <p>Q. <hi>How doth it appear that Chriſt died for all Men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> From the Types under the Law; from the Teſtimony of all the Prophets; from the Teſtimony of an Angel, and of the Heavenly Hoſt; from the Teſtimony of Chriſt and his Holy Apoſtles.</p>
+            <p>Q. <hi>How from Types doth it appear that Chriſt died for all Men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> As the Paſchal Lamb being ſlain, was a Sign of Safety and Deliverance to <hi>Iſrael;</hi> ſo Jeſus Chriſt is called the Lamb ſlain from the
+<pb n="15" facs="tcp:172060:8"/>Foundation of the World; and is called the Lamb of God that taketh away the Sins of the World; and that ſaveth all that believe from Wrath to come. <hi>Rev.</hi> 13.8. <hi>Joh.</hi> 1.29. 1 <hi>Theſſ.</hi> 1.10.</p>
+            <p>Q. <hi>How elſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the brazen Serpent, that as truly as it was lifted up by <hi>Moſes,</hi> for the healing of all that were ſtung or bitten; ſo Chriſt is held forth and lifted up, for the comfort of every poor diſtreſſed Sinner; that whoſoever believ<g ref="char:EOLhyphen"/>eth, might not periſh, but have eternal Life. <hi>John</hi> 3.14, 15, 16.</p>
+            <p>Q. <hi>How elſe by the</hi> Manna?</p>
+            <p>
+               <hi>A.</hi> That as the <hi>Manna</hi> fell for all <hi>Iſrael</hi> to gather, and be nouriſhed in the eating of it; ſo Jeſus Chriſt came, the true Bread from Hea<g ref="char:EOLhyphen"/>ven, to give his Fleſh for the Life of the World, that all thoſe that believe on Jeſus Chriſt, and feed on him by Faith, might be nouriſhed up to eternal Life, <hi>John</hi> 6.51.</p>
+            <p>Q. <hi>How elſe doth it appear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Teſtimony of an Angel, ſaying, Fear not, I bring you glad Tidings, which ſhall be to all People; for unto you is born this Day, in the City of <hi>David,</hi> a Saviour, Chriſt the Lord, <hi>Luke</hi> 2.10, 11, 12.</p>
+            <p>Q. <hi>How elſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Immediately a Heavenly Hoſt praiſing God, and ſaying, Glory to God in the higheſt, Peace, good Will towards Men, <hi>Luk.</hi> 2.13, 14.</p>
+            <p>Q. <hi>How elſe doth it appear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Teſtimony of all the Prophets,
+<pb n="16" facs="tcp:172060:9"/>
+               <hi>Acts</hi> 10.47. To him give all the Prophets witneſs, that whoſoever believeth in him, ſhould have remiſſion of Sins.</p>
+            <p>Q. <hi>How elſe doth it appear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> From the Teſtimony of Chriſt, who ſaith, The Bread which I give, is my Fleſh; which I give for the Life of the World, <hi>John</hi> 6.51. By the Teſtimony of his Apoſtles, who thus judg, that if one died for all, then they which live, ſhould not live to themſelves, but unto him that died for them, and roſe again, 2 <hi>Cor.</hi> 5.14. Who ſay, that he by the Grace of God, taſted Death for every Man, <hi>Heb.</hi> 2.9. Who gave himſelf a Ranſom for all, to be teſtified in due Time. And this Truth, <hi>Paul</hi> was ordained a Preacher of a<g ref="char:EOLhyphen"/>mong the Gentiles, 1 <hi>Tim.</hi> 2.6, 7. Who ſay, that he is not only a Propitiation for our Sins, but for the Sins of the whole World, 1 <hi>John</hi> 2.2.</p>
+            <p>Q. <hi>What farther Means doth he uſe to ſeek and ſave them that are loſt, or are by reaſon of Sin in a damnable Condition, if dying therein?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He roſe again for the Juſtification of poor ſinful Man, in which he hath given aſſurance unto Man of his Reſurrection, and that there is a Day that he muſt come to Judgment, <hi>Acts</hi> 17.31. Alſo appointing, that the Goſpel ſhould be preached to every Creature, <hi>Mark</hi> 16.13, 16. Alſo affording his Spirit to convince Men of Sin, if they believe not, <hi>John</hi> 16.8, 9. Alſo by the glorious Benefits of his Aſcenſion, did and doth furniſh Men with Gifts for the Work of the Miniſtry, to be Ambaſſadors for Chriſt, to
+<pb n="17" facs="tcp:172060:9"/>beſeech Souls to be reconciled, <hi>Epheſ.</hi> 4.11, 12 2 <hi>Cor.</hi> 5.19, 20.</p>
+            <p>Q. <hi>What farther Means doth he uſe to bring Men to Happineſs?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By virtue of his Interceſſion, Vengeance is ſtaid from coming ſpeedily and ſuddenly up<g ref="char:EOLhyphen"/>on Men, <hi>Luke</hi> 13.8. <hi>Iſa.</hi> 53.12. Alſo his patient waiting upon Men from time to time; Warn<g ref="char:EOLhyphen"/>ings given by his Severity upon ſome, pro<g ref="char:EOLhyphen"/>miſing Happineſs and Eternal Life, if they be<g ref="char:EOLhyphen"/>lieve and obey; threatning Eternal Death and Damnation, if they believe not, and are diſo<g ref="char:EOLhyphen"/>bedient, <hi>Prov.</hi> 1.20. <hi>Jer.</hi> 13.27. <hi>Mat.</hi> 11.21. <hi>John</hi> 3.36. 1 <hi>Cor.</hi> 10.12.</p>
+            <p>Q. <hi>Did Jeſus Chriſt die for all Men, that they might be ſaved?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea; for he complaineth, ſaying, Ye will not come unto me, that you might have Life; and he came not to condemn the World, but that the World through him might be ſaved: And <hi>John</hi> came to bear witneſs of that Light, that all Men through him might believe, <hi>John</hi> 5.40. &amp; 3.17. &amp; 1.7.</p>
+            <p>Q. <hi>Are Men ſaved only by the Death of Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are ſaid to be reconciled by his Death, but ſaved by his Life, <hi>Rom.</hi> 5.10.</p>
+            <p>Q. <hi>What is that which renders Men Enemies unto God, and under his Wrath?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Evil wicked Works, <hi>Col.</hi> 1.21. <hi>Epheſ.</hi> 2.2, 11.</p>
+            <p>Q. <hi>What are the Works of the Fleſh?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Adultery, Fornication, Uncleanneſs, La<g ref="char:EOLhyphen"/>ſciviouſneſs,
+<pb n="18" facs="tcp:172060:10"/>Idolatry, Witchcraft, Hatred, Va<g ref="char:EOLhyphen"/>riance, Emulation, Wrath, Strife, Sedition, He<g ref="char:EOLhyphen"/>reſies, Envying, Drunkenneſs, Murders, Revi<g ref="char:EOLhyphen"/>ling.</p>
+            <p>Q. <hi>Shall any ſuch inherit the Kingdom of Hea<g ref="char:EOLhyphen"/>ven?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No. <hi>Gal.</hi> 5 19, 20. 1 <hi>Cor.</hi> 6.9. <hi>Epheſ.</hi> 5.6.</p>
+            <p>Q. <hi>Will not Omiſſions of Good hinder from E<g ref="char:EOLhyphen"/>ternal Life, as well as Commiſſions of Evil?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea; for Chriſt ſaith, the not giving to him when he was an hungry; the not clothing of him when he was naked; the not viſiting of him when he was ſick; the not coming unto him when he was in Priſon; he will take this want of Mercy to his little Ones that believe, as done to himſelf; and theſe ſhall go away in<g ref="char:EOLhyphen"/>to everlaſting Deſtruction, <hi>Mat.</hi> 25.41, 42, 43.</p>
+            <p>Q. <hi>What is required of all Men guilty of com<g ref="char:EOLhyphen"/>mitting Evil, or omitting Good?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Confeſſing their Sins before the Lord, and being humbled for them, with a Reſolution to forſake them, through a conſtant watchfulneſs againſt them. <hi>Prov.</hi> 28.13. <hi>Luk.</hi> 24.27. <hi>Acts</hi> 17.30. 2 <hi>Cor.</hi> 7.10.</p>
+            <p>Q. <hi>VVhat Rule hath God left us to guide and direct, what to avoid, what to believe, and what to do?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Holy Scriptures, which are able to make the Man of God wiſe unto Salvation, and to furniſh him to every good Work; and are profitable for Inſtruction, Correction, Com<g ref="char:EOLhyphen"/>fort. <hi>Acts</hi> 24.14. &amp; 17.11. 2 <hi>Tim.</hi> 3.16, 17.</p>
+            <pb n="19" facs="tcp:172060:10"/>
+            <p>Q. <hi>How may it appear that they are the Mind of God, for us to walk by?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. By the wonderful Miracles wrought to confirm the Words ſpoken by Chriſt, and his Apoſtles and Prophets, recorded therein. 2. By the conſtant fulfilling of the Prophecies and Promiſes therein contained. 3. By the entire Purity of the teaching of God contained in them, leading from Sin to Holineſs, from Earth to Heaven, from Death to Life, from a carnal State to a Spiritual, from Darkneſs to Light. 4. From the wonderful preſervation of them, that neither Time nor Tyranny could extin<g ref="char:EOLhyphen"/>guiſh. 5. By the ſweet Harmony and Agreement againſt thoſe Evils that Men are moſt inclined to commit. 6. By the powerful Operation of them, in converting Thouſands.</p>
+            <p>Q. <hi>VVherein doth their Profitableneſs farther appear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By hiding them in the Heart, they keep from Sin, and the Path of the Deſtroyer, and are a Means to bring to believe, <hi>Pſal.</hi> 119.9. <hi>Joh.</hi> 20.31. <hi>Rom.</hi> 15.4. 1 <hi>Joh.</hi> 3.9.</p>
+            <p>Q. <hi>VVhen there is Faith and Repentance mani<g ref="char:EOLhyphen"/>feſted, what doth the Scripture require ſuch Men to do in the next place?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are, after the manifeſtation of Faith and Repentance, to be baptized with Water, into the Name of Father, Son, and holy Spirit, <hi>Mat.</hi> 28.19. <hi>Mar.</hi> 16.16. <hi>Act.</hi> 2.41. &amp; 10.48. &amp; 18.8.</p>
+            <p>Q. <hi>In what manner is this Ordinance to be ad<g ref="char:EOLhyphen"/>miniſtred?</hi>
+            </p>
+            <pb n="20" facs="tcp:172060:11"/>
+            <p>
+               <hi>A.</hi> We find no mention made in Scripture of Sprinkling being the manner; but Chriſt, our glorious Pattern, came up out of the Wa<g ref="char:EOLhyphen"/>ter, and the Spirit of God lighted on him as a Dove. <hi>Philip</hi> and the <hi>Eunuch</hi> are ſaid to go down into the Water; and when <hi>Philip</hi> had baptized him, they came both up out of the Water, <hi>Acts</hi> 8.39. The Apoſtle <hi>Paul</hi> telleth the Saints, ſpeaking of the ſignification of Baptiſm, as alſo the manner, ſaith, Therefore we are bu<g ref="char:EOLhyphen"/>ried with him in Baptiſm; and burying is a covering the whole Man, putting the Party baptized under the Water, <hi>Rom.</hi> 6.2. <hi>Joh.</hi> 3.23.</p>
+            <p>Q. <hi>VVhat doth Baptiſm ſignify?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A death unto Sin, a riſing unto newneſs of Life; that which the believing Subject ought to have in his mind then, and to appear reckon<g ref="char:EOLhyphen"/>ing himſelf dead to Sin, and one minding a new Life afterward, <hi>Rom.</hi> 6.2, 7. <hi>Col.</hi> 2.12.</p>
+            <p>Q. <hi>What Privilege or Benefit hath the Believer, by being <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aptized with Water into the Lord's Name?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is in the way to receive the precious Comfort of the Holy Spirit, and Remiſſion of his Sins, and to have fellowſhip with the Church in all other good Duties, as being a viſible Mem<g ref="char:EOLhyphen"/>ber thereof, added by Faith, Repentance and Baptiſm; as appears by theſe Scriptures, <hi>Acts</hi> 2.38, 39. &amp; 2.41. &amp; 22.16.</p>
+            <p>Q. <hi>How many Baptiſms be there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Three.</p>
+            <p>Q. <hi>Which be they?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Baptiſm of Water, and of the Spirit, and of Afflictions.</p>
+            <pb n="21" facs="tcp:172060:11"/>
+            <p>Q. <hi>VVho are the Adminiſtrators of VVater-Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Faithful preaching Diſciples may admi<g ref="char:EOLhyphen"/>niſter it to Men and Women, <hi>Mat.</hi> 28.19. <hi>Acts</hi> 8.37, 38. &amp; 8.12. &amp; 22.16.</p>
+            <p>Q. <hi>Why may not Infants be baptized, ſeeing it is no where forbidden?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Revealed things belong to us and our Children; but we find not that revealed as any part of the Will of God: alſo in doing that in Worſhip to God, which we have nei<g ref="char:EOLhyphen"/>ther Precept from God, nor Example from Chriſt, is Will-worſhip; and that is forbidden, <hi>Levit.</hi> 10.2. <hi>Col.</hi> 4.23.</p>
+            <p>Q. <hi>VVho are the Adminiſtrators of the Baptiſm of Affliction?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The World and the Devil, <hi>Rev.</hi> 2.10.</p>
+            <p>Q. <hi>VVho are the Adminiſtrators of the Spirit's Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God and Jeſus Chriſt only are the Ad<g ref="char:EOLhyphen"/>miniſtrators of that, <hi>Mat.</hi> 3.11. <hi>Joel</hi> 2.18.</p>
+            <p>Q. <hi>VVhat is the Spirit's Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the extraordinary Meaſures of the Spirit given from God, whereby Perſons are enabled to work Miracles, ſpeak with Tongues, <hi>Mat.</hi> 3.11. <hi>Acts</hi> 1.5. compared with <hi>Acts</hi> 3.4. &amp; 11.16, 17.</p>
+            <p>Q. <hi>VVhat are we to look for after this ſhort Life is ended?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Reſurrection from the Dead, by the wonderful Power of God, and made incor<g ref="char:EOLhyphen"/>ruptible, and come to Judgment, and receive
+<pb n="20" facs="tcp:172060:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:172060:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:172060:13"/>according to the Works done in the Body, ei<g ref="char:EOLhyphen"/>ther eternal Happineſs, as the End of the Faith of the Lord's People, or elſe eternal Damnation as the juſt Reward of all thoſe that know not God, and obey not the Goſpel, 1 <hi>Pet.</hi> 1.9. 2 <hi>Theſſ.</hi> 1.8.</p>
+            <p>Q. <hi>VVhat muſt Men expect in this World in following Chriſt, leaving their vain Converſation, and witneſſing againſt the Evil of the Times and Days wherein they live?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They muſt, in living Godly, ſuffer Per<g ref="char:EOLhyphen"/>ſecution, and expect to have Men lay their Hands on them, and put them into Priſon; ſcourge them, and put them to Death; deſpiſe their pure holy Profeſſion with names of Blaſ<g ref="char:EOLhyphen"/>phemy, Hereſy, Deluſion; ſaying all manner of Evil falſly for his Name ſake, <hi>Luke</hi> 6.22, 24. <hi>Acts</hi> 24.</p>
+            <p>Q. <hi>VVhat is needful then for Men to learn that intend to follow Chriſt in this Vail of Miſery?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Self-denial and Contentation, to labour to increaſe in Faith and Patience, to ſee more in reproach for Chriſt's ſake, than in a King<g ref="char:EOLhyphen"/>dom of carnal ſinful Delights, <hi>Heb.</hi> 11.24, 25. Wiſely to ſit down and count the Coſt, <hi>Luke</hi> 14.27, 28.</p>
+            <p>Q. <hi>What is, or will be the Danger of drawing back from Truth, when a Man once profeſſeth it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They had better they had never known the holy Commandment, than after to turn from it; they are ſuch in ſo doing, that God's Soul will have no pleaſure in; they ſhall alſo
+<pb n="23" facs="tcp:172060:13"/>be filled with their own Ways, lie open to ſtrong Deluſions, becauſe they received not the Truth in the love of it; ſuch as are unfit for the Kingdom of Heaven, and are compared to Dogs returning to their own Vomit; and wan<g ref="char:EOLhyphen"/>dring Stars, to whom is reſerved the Blackneſs of Darkneſs for ever. <hi>Luke</hi> 9.42. <hi>Pſal.</hi> 125.5. 2 <hi>Pet.</hi> 2.20. 2 <hi>Theſſ.</hi> 2. ch. <hi>Prov.</hi> 14.14.</p>
+            <p>Q. <hi>VVhat Duties are the Church of Chriſt to obſerve, after they are gathered by Faith, Repen<g ref="char:EOLhyphen"/>tance, Baptiſm, and intend to profeſs Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are to aſſemble together at their appointed Times, to edify and build up each o<g ref="char:EOLhyphen"/>ther in their moſt holy Faith; to provoke to Love and good Works, and not to forſake the aſſem<g ref="char:EOLhyphen"/>bling of themſelves together, as the manner of ſome is, <hi>Heb.</hi> 3.13. &amp; 10.24, 25.</p>
+            <p>Q. <hi>What are they to do firſt of all when they come together?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To agree to make Supplication unto the Lord by Prayer, Interceſſion, giving of Thanks for all Men, Kings, and all that are in Authori<g ref="char:EOLhyphen"/>ty, that under them we may lead a godly and peaceable Life, in all Godlineſs and Honeſty, 1 <hi>Tim.</hi> 2.1, 2, 3.</p>
+            <p>Q. <hi>VVhat is Prayer?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a reverend Asking of thoſe Things we need, agreeable to the Lord's holy Will, <hi>Jam.</hi> 5.13. <hi>Pſal.</hi> 69.13.</p>
+            <p>Q. <hi>VVhat is Interceſſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a ſuing earneſtly for Mercy for o<g ref="char:EOLhyphen"/>thers unto the Lord, <hi>Jer.</hi> 7.16.</p>
+            <pb n="24" facs="tcp:172060:14"/>
+            <p>Q. <hi>VVhat is Thanksgiving?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a being ſeriouſly ſenſible of the Mer<g ref="char:EOLhyphen"/>cies of God, either Temporal or Spiritual, and glorifying of him by praiſing or giving Thanks unto God for them, <hi>Luke</hi> 2.38. <hi>Acts</hi> 27.35.</p>
+            <p>Q. <hi>In what manner muſt we pray?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In Faith and Love, lifting up pure Hands without Wrath or Doubting, 1 <hi>Tim.</hi> 1.8. <hi>Jam.</hi> 1.6. <hi>Mark</hi> 11.25.</p>
+            <p>Q. <hi>Is this Duty privately to be obſerved?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea, much by every Chriſtian Man, to watch unto Prayer, to go often about the Work, and not to be weary of it; ſolemnly ſetting a<g ref="char:EOLhyphen"/>part Time every Day for the Work, that he may be kept from Evil, and enabled to do his Duty, <hi>Luke</hi> 18.1. 1 <hi>Theſſ.</hi> 5.21. <hi>Mat.</hi> 6.6.</p>
+            <p>Q. <hi>VVhat other Duties are required of Church-members?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Loving meek Admonitions given to thoſe that tranſgreſs; condemning what is good, with the moſt gaining winning Terms that may be, for the preventing of Evil, and bring<g ref="char:EOLhyphen"/>ing to a godly Sorrow. <hi>Gal.</hi> 6.1. <hi>Rev.</hi> 2.1, 2. 2 <hi>Cor.</hi> 2.11.</p>
+            <p>Q. <hi>VVhat ought the Reprover of Evil to do farther?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Examine himſelf, and caſt out the Beam out of his own Eye, then will he clearly ſee the Mote that is in his Brother's; not upbraiding with former Evils, lifting up his Heart to God for a Bleſſing and Direction how to give it to the Party offending, <hi>Mat.</hi> 7.3, 4. <hi>Luke</hi> 19.3.</p>
+            <pb n="25" facs="tcp:172060:14"/>
+            <p>Q. <hi>VVhat farther?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If a private Offence, to tell the Offender between thee and him alone, avoiding Tale<g ref="char:EOLhyphen"/>bearing: if he hear not, take another or two, that in the Mouth of two or three Witneſſes every Word may be eſtabliſhed: if he hear not then, tell the Church. <hi>Mat.</hi> 18.15, 16, 17.</p>
+            <p>Q. <hi>VVhat then is the Church to do?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are publickly to enquire into the Evil, and the guiltineſs of the Party ſinning; and to manifeſt the Danger of Sin, with the vileneſs and odiouſneſs thereof; lovingly to beſeech the Party offending, to turn from it: And in caſe they ſee Stubbornneſs, plainly and ſharply to reprove, and afterwards to account him as a Heathen Man &amp; Publican, <hi>Mat.</hi> 18.17.</p>
+            <p>Q. <hi>VVhat is the Duty of the Reproved?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To love them that do it; to eſteem the Wounds of a Friend, better than the Kiſſes of an Enemy; to account the Smitings of the Righteous, as a Balm to help a Soul when wounded by Sin; to ſuſpect and ſearch their own Hearts, and find out their own Iniquity; to confeſs to God, and to them, that they have offended, and not to hide their Evils under any Pretence or Excuſe whatſoever; and then there is a Promiſe of Mercy, <hi>Prov.</hi> 28.13. <hi>Jam.</hi> 5.15. <hi>Prov.</hi> 9.8.</p>
+            <p>Q. <hi>VVhat is the Man that hath ſinned, farther to do that he may have comfort?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is to apply the Promiſe of Mercy; to remember that he hath an Advocate with the
+<pb n="26" facs="tcp:172060:15"/>Father; to walk humbly and watchfully, both towards God and Man, 1 <hi>Joh.</hi> 2.1. 2 <hi>Cor.</hi> 7.10.</p>
+            <p>Q. <hi>VVhat then is the offended Brother to do?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Freely to forgive, paſs by, and not re<g ref="char:EOLhyphen"/>member nor upbraid the Perſon afterwards with his Evils; to deſire the forgiveneſs of his Treſpaſſes, as he forgives his Brother his; and to pray that his Brother may be healed. <hi>Mat.</hi> 18.35. &amp; 6.12. <hi>Jam.</hi> 5.16.</p>
+            <p>Q. <hi>What further is the Church of God to do?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To break Bread in remembrance of Chriſt's Body being broken; to drink of the Fruit of the Grape, in remembrance of his Blood being ſhed for them, <hi>Matth.</hi> 26.28. <hi>Luke</hi> 22.20. 1 <hi>Cor.</hi> 11.24, 25, 26.</p>
+            <p>Q. <hi>VVhat is ſet forth to the believing Soul in this Ordinance?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The great Love of the Lord Jeſus in dy<g ref="char:EOLhyphen"/>ing for them, in redeeming them by his Blood, 1 <hi>Pet.</hi> 1.18. in being broken for their Tranſ<g ref="char:EOLhyphen"/>greſſions, wounded for their Iniquities; be<g ref="char:EOLhyphen"/>coming Sin, that knew no Sin, that they might be made the Righteouſneſs of God in him, 2 <hi>Cor.</hi> 5.21. <hi>Iſa.</hi> 53.2, 3.</p>
+            <p>Q. <hi>VVhat elſe is to be minded in this Ordinance by the Believer?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A conſtant feeding upon the Benefits of Chriſt's Death by Faith, whereby a Soul may diſcern Chriſt's Body broken to be Bread in<g ref="char:EOLhyphen"/>deed, and his Blood being ſhed to be Drink in<g ref="char:EOLhyphen"/>deed, nouriſhing of the believing Soul to Eter<g ref="char:EOLhyphen"/>nal Life, <hi>John</hi> 6.51, 54.</p>
+            <pb n="27" facs="tcp:172060:15"/>
+            <p>Q. <hi>VVhat farther is to be minded?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A New Teſtament dedicated in his Blood, and an end put to all the ſhadowing Sacrifices in the Time of the Law, the middle-Wall of Partition being broken down; and in the ſlighting of his Will and Teſtament, it is a ſlighting of his Blood; according to Scripture, <hi>Heb.</hi> 10.28, 29. &amp; 9.15, 16, 17. &amp; 12.25.</p>
+            <p>Q. <hi>VVhat is the Receiver of this Ordinance to do by way of Preparation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To examine himſelf, to lay aſide every Sin, and to keep the Feaſt with unleavened Bread of Sincerity &amp; Truth, 1 <hi>Cor.</hi> 5.8. &amp; 11.28.</p>
+            <p>Q. <hi>What is the Adminiſtrator to do?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is to take the Bread, and bleſs the Lord, and to ſeek a Bleſſing from the Lord up<g ref="char:EOLhyphen"/>on his Appointment; and to ſpeak ſuch words that may affect the Hearts of the Receivers with the unſpeakable Gift of God, even Chriſt; and after to deliver it as that which is broken, and to be eaten in remembrance of the Body of Chriſt being broken for them; and after the ſame manner to take the Cup, delivering of it as that which doth ſhew forth the Blood of Chriſt, and the New Teſtament in his Blood, which was ſhed for them, and many, for the Re<g ref="char:EOLhyphen"/>miſſion of their Sins. 1 <hi>Cor.</hi> 11.24, 25, 26. <hi>Luke</hi> 22.19, 20.</p>
+            <p>Q. <hi>After the Ordinance is thus Adminiſtred, what is then to be done farther?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A ſolemn hearty praiſing, bleſſing, ſing<g ref="char:EOLhyphen"/>ing unto God, for his unſearchable Riches
+<pb n="28" facs="tcp:172060:16"/>of his Grace in Chriſt unto them, 1 <hi>Cor.</hi> 14.15: <hi>Mat.</hi> 26 30.</p>
+            <p>Q. <hi>What is the Danger of eating and drinking <g ref="char:V">Ʋ</g>nworthily?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They eat and drink Damnation to them<g ref="char:EOLhyphen"/>ſelves, in not diſcerning the Lord's Body, 1 <hi>Cor.</hi> 11.27.</p>
+            <p>Q. <hi>What is farther to be done by the Church?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If any ſpeak or have received Under<g ref="char:EOLhyphen"/>ſtanding, Utterance, Boldneſs from the Spirit; as they have received, every one to miniſter the manifold Graces of God: If any ſpeak, to ſpeak as the Oracles of God, 1 <hi>Pet.</hi> 4.11. 1 <hi>Cor.</hi> 14.1, 29.</p>
+            <p>Q. <hi>May any gifted Brother in the Church preach?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea, for they may all propheſy one by one, that all may learn and be comforted: And Chriſt ſaith, No Man lighteth a Candle to put under a Bed, or a Buſhel, but on a Can<g ref="char:EOLhyphen"/>dleſtick, that the Houſhold may have Light. Mind his Counſel in the next words, 1 <hi>Cor.</hi> 14.30. <hi>Mat.</hi> 6.15, 16.</p>
+            <p>Q. <hi>What farther is to be done by the Church of God in aſſembling together?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Contributing to the Neceſſity of the poor Saints, as God hath proſpered them, 1 <hi>Cor.</hi> 16.2. <hi>Acts</hi> 6.1.</p>
+            <p>Q. <hi>In what manner ought this to be done?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is to give chearfully, willingly, avoid<g ref="char:EOLhyphen"/>ing grudging and vain Glory, 2 <hi>Cor.</hi> 9.7. <hi>Rom.</hi> 12.13.</p>
+            <pb n="29" facs="tcp:172060:16"/>
+            <p>Q. <hi>What Encouragement have charitable Chri<g ref="char:EOLhyphen"/>ſtians in this Work?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They may aſſure themſelves, that in doing of it ſincerely, Chriſt will take what is beſtowed upon his Members in their Neceſ<g ref="char:EOLhyphen"/>ſities, as done to himſelf, <hi>Mat.</hi> 25.36. as being the Bleſſed of the Lord; as lending to the Lord, and he will pay again; as thoſe that ſow Li<g ref="char:EOLhyphen"/>berally, ſhall reap Bountifully; for God is able to make all Grace abound. <hi>Pſal.</hi> 41.1. <hi>Prov.</hi> 19.17. <hi>Mat.</hi> 25.36. 2 <hi>Cor.</hi> 9.6, 7.</p>
+            <p>Q. <hi>Who is the Church of God to do good unto in this reſpect?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To all, but eſpecially to the Houſhold of Faith, <hi>Gal.</hi> 6.10.</p>
+            <p>Q. <hi>What farther is to be done by the Church of Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are to look out from among them<g ref="char:EOLhyphen"/>ſelves faithful Men, Men of Wiſdom, full of the Holy Spirit, qualified according to the Di<g ref="char:EOLhyphen"/>rections given by <hi>Paul</hi> to <hi>Timothy,</hi> 1 <hi>Epiſt.</hi> 3.1. for the Work of Biſhops and Deacons, <hi>Titus</hi> 1.6.</p>
+            <p>Q <hi>In what manner are they to be choſen, that are to be Elders or Biſhops?</hi>
+            </p>
+            <p>Q. They ſolemnly are to apply themſelves by Prayer and Faſting unto the Lord, for di<g ref="char:EOLhyphen"/>rection whom to chuſe, and as near as they can appoint ſuch Men in the Work, that are quali<g ref="char:EOLhyphen"/>fied for it, and ſutably gifted to feed the Flock with wholſome ſound Doctrine; then to or<g ref="char:EOLhyphen"/>dain them by the laying on of the Hands of the
+<pb n="30" facs="tcp:172060:17"/>Elderſhip, <hi>Acts</hi> 14.23. &amp; 13.2, 3. 1 <hi>Tim.</hi> 4.14. 1 <hi>Tim.</hi> 3.</p>
+            <p>Q. <hi>VVhat is the Work chiefly of the Elders?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To feed the Flock of God, over which the Holy Ghoſt hath made them Overſeers; to watch for their Souls, as one that muſt give an Account for them, <hi>Heb.</hi> 13.17. to provide ſeaſonable Matter for them, both for Inſtru<g ref="char:EOLhyphen"/>ction, Correction and Comfort; and to labour to hold forth ſound Doctrine by a due Study, and premeditating upon the Will of God, 1 <hi>Tim.</hi> 4.15. 2 <hi>Tim.</hi> 2.15. <hi>Mat.</hi> 24.45. And ſo giving every one their Portion in due Seaſon, being Patterns or Enſamples to the Flock, 1 <hi>Pet.</hi> 5.1, 2, 3.</p>
+            <p>Q. <hi>Are the Deacons to be ordained by laying on of Hands?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea, ſo was the Example, <hi>Acts</hi> 6.6.</p>
+            <p>Q. <hi>What is to be done in order to chuſe them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Their Qualifications are to be minded on the Churches part, and as near as they can to chuſe Men according to the Pattern, 1 <hi>Tim.</hi> 3.8.</p>
+            <p>Q. <hi>VVhat is their Work?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To over ſee the Poor faithfully, and care<g ref="char:EOLhyphen"/>fully to diſtribute the Church's Contribution, that the Poor may not juſtly complain, <hi>Act.</hi> 6.1, 2.</p>
+            <p>Q. <hi>What Care ought the Church to take of them that labour in the Word and Doctrine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To account them worthy of double Ho<g ref="char:EOLhyphen"/>nour, not to receive evil Thoughts of them without juſt Cauſe; nor any Accuſation a<g ref="char:EOLhyphen"/>gainſt an Elder, without two Witneſſes; and
+<pb n="31" facs="tcp:172060:17"/>to obey them in their ruling, according to Chriſt's own Word, 1 <hi>Tim.</hi> 5.17, 19. <hi>Heb.</hi> 13.17.</p>
+            <p>Q. <hi>What further are they to do?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They that are taught in the Word, are to communicate to him that teacheth in all good Things, according as they ſhall be made free by the Power of the Goſpel, <hi>Gal.</hi> 6.6. <hi>Phil.</hi> 4.17.</p>
+            <p>Q. <hi>Are they thus to be contented to Labour?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea, and when the chief Shepherd ſhall appear, they ſhall receive a Crown of Life, if Faithful, Free, Ready, Conſtant, Humble in the doing of their Work, 1 <hi>Pet.</hi> 6.2, 3, 4. So was <hi>Paul</hi>'s Charge to the Elders, <hi>Acts</hi> 20. as alſo his own Example, <hi>Acts</hi> 20.33, 34.</p>
+            <p>Q. <hi>VVhat is the Duty of Saints in Affliction?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To pray for Mercy, to exerciſe Patience, to examine themſelves, to loath their Sin, with a Reſolution to turn from it. <hi>Jam.</hi> 5.14. <hi>Lam.</hi> 3.40. <hi>Job</hi> 24.31. <hi>Joh.</hi> 5.14.</p>
+            <p>Q. <hi>VVhat are they to do further?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are to ſend for the Elders of the Church, and they are to pray over them, a<g ref="char:EOLhyphen"/>nointing them with Oil in the Name of the Lord. And there is a two-fold Promiſe: Firſt, That the Prayer of Faith ſhall ſave the Sick. Secondly, That if he have committed Sin, it ſhall be forgiven him, <hi>Jam.</hi> 5.14, 15, 16. This Promiſe of Recovery muſt be conſidered, if God have not otherwiſe determined; for it is appointed for Men once to die: and if Re<g ref="char:EOLhyphen"/>covery ſhould always be of ſick Members,
+<pb n="32" facs="tcp:172060:18"/>then none in the Church ſhould die.</p>
+            <p>Q. <hi>VVas this ever practiſed by Chriſt's Diſci<g ref="char:EOLhyphen"/>ples?</hi> &amp;c.</p>
+            <p>
+               <hi>A.</hi> Yea; they anointed with Oil, in the Name of the Lord, many that were Sick, and healed them, <hi>Mark</hi> 6.13. Although there be no more in the Oil, than there was in the bra<g ref="char:EOLhyphen"/>zen Serpent, yet being commanded by the Lord, there is Virtue in it, and God's Promiſe is to his own Way: Therefore let none de<g ref="char:EOLhyphen"/>ſpiſe and run out of God's Way, as <hi>Aſa</hi> did, 2 <hi>Chron.</hi> 16.12, 13.</p>
+            <p>Q. <hi>VVhat are Perſons to do when merry?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are to ſing Pſalms, and Spiritual Songs, according to their ſenſibleneſs of the Lord's Mercy to themſelves, or the Church of God, and to ſpeak forth their Experiences of God's Goodneſs, Mercy, either Spiritually or Temporally enjoyed; for the Praiſe of God, for the raiſing up each others Hearts, <hi>Exod.</hi> 15.12. <hi>Iſa.</hi> 26.1. <hi>Jude</hi> 5. <hi>Luke</hi> 2.29.</p>
+            <p>Q. <hi>Is Singing, giving of Thanks, Praiſing, Bleſſing God, all one?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea; the Apoſtle's words make it ſo ap<g ref="char:EOLhyphen"/>pear, 1 <hi>Cor.</hi> 14.15, 16, 17.</p>
+            <p>Q. <hi>What are Chriſtians Duty to all Men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To do to all Men as they would be done by, <hi>Mat.</hi> 7.12. <hi>Luk.</hi> 6.31.</p>
+            <p>Q. <hi>VVhat is their Duty to Enemies?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To pray for them that perſecute them; to do good to them that hate them; to bleſs them that curſe them; to feed, if hungry;
+<pb n="33" facs="tcp:172060:18"/>if thirſty, to give them Drink, <hi>Rom.</hi> 12.20. <hi>Mat.</hi> 5.44.</p>
+            <p>Q. <hi>How muſt they learn this Duty?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By conſidering that Chriſt laid down his Life for them, while Enemies, <hi>Rom.</hi> 5.8. by a ſerious conſideration, that God would have Love and Mercy ſhewed to them that are Evil, that Saints might be like God; that Men might that way be provoked to turn unto the Lord; and if not provoked by the Lord's Patience and Mercy, nor his Peoples, it will juſtly make their Torments inſupporta<g ref="char:EOLhyphen"/>ble, <hi>Mat.</hi> 5.45. <hi>Rom.</hi> 12.20. even as ſad as Coles of Fire upon the Head.</p>
+            <p>Q. <hi>What are Chriſtians Duty to Magiſtrates?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To obey them in all things commanded by them, that are not contrary to the Law of the Almighty God; not for Wrath, but for Conſcience, ſake.</p>
+            <p>Q. <hi>VVhat muſt we do when we cannot actually obey?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Patiently ſuffering, as did the three Children, <hi>Daniel, Paul</hi> and <hi>Silas, Peter</hi> and <hi>John,</hi> when Governours required that to be done which God forbad, or commanded that to be avoided that God enjoined. <hi>Rom.</hi> 13.5. <hi>Acts</hi> 4.19. &amp; 16.21, 23. <hi>Dan.</hi> 3.16, 17, 18. &amp; 6.10.</p>
+            <p>Q. <hi>How are Men elected, or choſen by the Lord?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are ſaid to be choſen in Chriſt be<g ref="char:EOLhyphen"/>fore
+<pb n="34" facs="tcp:172060:19"/>the Foundation of the World, <hi>Epheſ.</hi> 1.4. 1 <hi>Pet.</hi> 1.2.</p>
+            <p>Q. <hi>How are Men in Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By Faith, <hi>Rom.</hi> 11.20, 23.</p>
+            <p>Q. <hi>How then cometh Faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By hearing the Word preached, <hi>Rom.</hi> 10.17.</p>
+            <p>Q. <hi>How comes the Word of Remiſſion of Sins and eternal Life to be preached?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Death and Reſurrection of Jeſus Chriſt.</p>
+            <p>Q. <hi>How came Jeſus Chriſt to die for our Sins?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It was the Lord's free Love, in ſending him into the World, <hi>John</hi> 3.16. <hi>Luke</hi> 24.47. 1 <hi>Cor.</hi> 15.13, 14, 15.</p>
+            <p>Q. <hi>But ſeeing Men are choſen through the ſanctification of the Spirit, and belief of the Truth, as</hi> 2 Theſſ. 2.13. <hi>How then are they cho<g ref="char:EOLhyphen"/>ſen in him before the Foundation of the World?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the Purpoſe of God, they that be<g ref="char:EOLhyphen"/>lieve are his Choſen.</p>
+            <p>Q. <hi>How make you that appear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God calleth things that are not, as tho they were, <hi>Rom.</hi> 4.17. And ſo he ſaid to <hi>A<g ref="char:EOLhyphen"/>braham,</hi> I have made thee a Father of many Nations, yet not the Father of one Child at that time, but <hi>Iſhmael,</hi> Gen. 17.5. but not of <hi>Iſaac,</hi> in whom his Seed ſhould be called, <hi>Rom.</hi> 9.7.</p>
+            <p>Q. <hi>How doth it farther appear that Men are
+<pb n="35" facs="tcp:172060:19"/>Elect, according to the foreknowledg of God, thrô Sanctification of the Spirit unto Obedience,</hi> 1 Pet. 1.2. <hi>and yet are ſaid to be choſen before the Foun<g ref="char:EOLhyphen"/>dation of the World, in Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Chriſt is called a Lamb, ſlain from the Foundation of the World; yet not ſlain many thouſand Years after, till he was a Man in the Fleſh: ſo Men are ſaid to be choſen in Chriſt before the Foundation of the World; yet not choſen till they have the Sanctification of the Spirit, and believe the Truth, 2 <hi>Theſſ.</hi> 2.13. He hath ſet apart the Godly for himſelf, <hi>Pſal.</hi> 4.3.</p>
+            <p>Q. <hi>How are Men ſaid to be ordained of old to Condemnation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not as Men, but as wicked ungodly Men, who turn the Grace of God into Wan<g ref="char:EOLhyphen"/>tonneſs, denying our Lord Jeſus Chriſt, and the only Lord God, <hi>Jude</hi> 4.</p>
+            <p>Q. <hi>How doth this farther appear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe that God manifeſteth upon Oath, that he deſireth not the Death of a Sinner, but that he may turn and live.</p>
+            <p>Q. <hi>How doth it appear that God doth not ordain any to Deſtruction, but as they are wicked and a<g ref="char:EOLhyphen"/>buſe his Grace?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By his lamenting the Ruin of them that have periſhed, and had the things hid from their Eyes that pertain to their everlaſting Peace, <hi>Matth.</hi> 23.37. <hi>Luke</hi> 19.41, 42. Alſo by the Lord, minding, that Man's Deſtructi<g ref="char:EOLhyphen"/>on
+<pb n="36" facs="tcp:172060:20"/>is of himſelf, <hi>Hoſ.</hi> 13.9. <hi>Acts</hi> 13.46. Al<g ref="char:EOLhyphen"/>ſo for this Cauſe God ſhall ſend them ſtrong Deluſions; and for this Cauſe he gave them up to vile Affections; ſo that there was a Cauſe of their Ruin when they had a being, and not before they had a being. 2 <hi>Theſſ.</hi> 2.10, 11. <hi>Rom.</hi> 1.14. <hi>Pſal.</hi> 81.10, 11.</p>
+            <p>Q. <hi>What are Childrens Duty towards their Pa<g ref="char:EOLhyphen"/>rents?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Children obey your Parents in all things, for this is well-pleaſing unto the Lord, <hi>Col.</hi> 3.20. compared with <hi>Epheſ.</hi> 6.1, 2. <hi>Exod.</hi> 20.12.</p>
+            <p>Q. <hi>What is the Danger of diſobeying, ſlighting, or making light of Parents?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Some eminent Judgments have taken hold of thoſe that have ſo done, and it doth much provoke the Lord.</p>
+            <p>Q. <hi>What Judgments have fallen upon Children, for making light of their Parents?</hi>
+            </p>
+            <p>
+               <hi>A. Ham,</hi> the Father of <hi>Canaan,</hi> for his Contempt of his Father <hi>Noah,</hi> was curſed, and was Servant to the reſt of his Brethren, <hi>Gen.</hi> 9.22, 23, 27.</p>
+            <p>Q. <hi>What elſe befel diſobedient Children?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He that ſmote his Father, or he that curſed or reviled his Father, was, according to the Law of God, to be put to Death, <hi>Exod.</hi> 21.15, 17. His Lamp to be put out in obſcure Darkneſs, that curſeth Father or Mother, <hi>Prov.</hi> 20.20.</p>
+            <pb n="37" facs="tcp:172060:20"/>
+            <p>Q. <hi>How doth it appear that ſome eminent Judg<g ref="char:EOLhyphen"/>ment is likely to fall on them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Eye that mocketh at his Father, and deſpiſeth to obey his Mother, the Ravens of the Valley ſhall pick it out, and the young Eagles ſhall eat it, <hi>Prov.</hi> 30.17. Diſobedience to Parents is reckoned up among the Sins that God hath puniſhed, <hi>Ezek.</hi> 22.7, 14. among the Sins that God will puniſh; and that which makes the Days with other Evils perilous, 2 <hi>Tim.</hi> 3.2.</p>
+            <p>Q. <hi>Are Parents to be obeyed in any thing actu<g ref="char:EOLhyphen"/>ally, that contradicts the Mind of the Father of Spirits?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In this reſpect we muſt honour God more than Father or Mother, or Governours; as Chriſt ſaith, Call no Man Father, for one is your Father, which is in Heaven, <hi>Mat.</hi> 23.9.</p>
+            <p>Q. <hi>What Privilege have thoſe Children that are obedient to their Parents in the Lord?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is called the firſt Commandment with Promiſe, <hi>Epheſ.</hi> 6.3. God bleſſed the <hi>Rekabites,</hi> the Sons of <hi>Jonadah,</hi> and honou<g ref="char:EOLhyphen"/>red them highly, becauſe they did not violate their Father's Command, but obſerved it, <hi>Jer.</hi> 35.5, 6, 7, 8, 9: compared with the 18 &amp; 19 verſes.</p>
+            <p>Q. <hi>What was done to the Children that mocked the Prophet becauſe of his bald Head?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They were curſed; and two Bears came forth out of the Wood, and ſlew
+<pb n="38" facs="tcp:172060:21"/>forty two Children, 2 <hi>Kings</hi> 2.23, 24.</p>
+            <p>Q. <hi>What may this Judgment of God teach Pa<g ref="char:EOLhyphen"/>rents?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Much; to caution and inſtruct their Children to take heed of deſpiſing, reproach<g ref="char:EOLhyphen"/>ing or mocking any, though wanting any thing in Perſon or Subſtance that others en<g ref="char:EOLhyphen"/>joy.</p>
+            <p>Q. <hi>What was done to</hi> Gehazi <hi>for Covetouſneſs and Lying?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Leproſy of <hi>Naaman</hi> the <hi>Syrian</hi> clave to him and his Seed for ever, and he went out white as a Leper, 2 <hi>King.</hi> 5.25, 27.</p>
+            <p>Q. <hi>What was done to</hi> Ananias <hi>and</hi> Saphira <hi>for lying?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They fell down both dead at the Apo<g ref="char:EOLhyphen"/>ſtles Feet, <hi>Acts</hi> 5.1, 2, 3.</p>
+            <p>Q. <hi>What muſt be the Portion of Liars?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They ſhall have their part in the Lake of Fire and Brimſtone, that tormenteth for ever and ever, <hi>Rev.</hi> 21.8.</p>
+            <p>Q. <hi>What did</hi> Moſes <hi>ſay to the Brethren that ſtrove with each other?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Rebuked them, ſaying, Wherefore ſmiteſt thou thy Fellow? And <hi>Abraham</hi> ſaid to <hi>Lot,</hi> when their Herdſmen were at ſtrife, Let there be no Strife between me and thee, for we be Brethren; <hi>Exod.</hi> 2.13. <hi>Gen.</hi> 13.8. It was the Charge of <hi>Joſeph</hi> to his Brethren, ſaying, See that you fall not out by the way, <hi>Gen.</hi> 49.24.</p>
+            <pb n="39" facs="tcp:172060:21"/>
+            <p>Q. <hi>VVhat is the Duty of Servants to their Ma<g ref="char:EOLhyphen"/>ſters?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Servants be ſubject to your Maſters with all fear; not only to the Good and Gentle, but alſo to the Froward, 1 <hi>Pet.</hi> 2.18, 19, 20, 21.</p>
+            <p>Q. <hi>But what Service ought a Perſon to perform to thoſe whom he engageth to ſerve?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Diligently, faithfully, humbly behaving himſelf in his outward Buſineſs; avoiding Eye-ſervice, purloyning, or taking little Mat<g ref="char:EOLhyphen"/>ters without Conſent or Knowledg of his Ma<g ref="char:EOLhyphen"/>ſter, or ſtubbornly anſwering again; or de<g ref="char:EOLhyphen"/>ſpiſing or ſlighting of them, becauſe they are Brethren. <hi>Epheſ.</hi> 6.6, 7, 8. 1 <hi>Tim.</hi> 6.1. <hi>Titus</hi> 2.9, 10.</p>
+            <p>Q <hi>VVhat Encouragement hath a Servant to be ſubject to the Froward, to be Faithful, to be Humble, Diligent, avoiding Eye-ſervice, not an<g ref="char:EOLhyphen"/>ſwering again?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Grace of God in ſending his Son to die, teacheth thoſe Leſſons, <hi>Titus</hi> 2.11. al<g ref="char:EOLhyphen"/>ſo knowing, that whatſoever good Thing any Man doth, the ſame he ſhall receive of the Lord, whether Bond or Free. Alſo the Law of Equity, which the Law of God gives a being unto, would have Servants do as they would be done by; and ſo Maſters to deal by their Servants, as they would have their own Children, when they come to be Servants, dealt by; conſidering thoſe words,
+<pb n="40" facs="tcp:172060:22"/>
+               <hi>Mat.</hi> 7.2. <hi>Mark</hi> 4.24. What meaſure you meet, ſhall be meaſured to you again: Therefore let Maſter and Servant, Father and Child, all prepare according to the Meaſures of Knowledg received, doing the Will of God from the Heart.</p>
+            <p>And this ſhall be the Concluſion of the Mat<g ref="char:EOLhyphen"/>ter, Fear God, and keep his Commandments, for this is the whole Duty of Man, <hi>Eccleſ.</hi> 12.13. Remember thy Creator in the Days of thy Youth: ſay daily, What am I, what do I, whither go I? Thy laſt Hour, and Eternal Judgment, do not forget.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb n="41" facs="tcp:172060:22"/>
+            <head>APPENDIX.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>May</hi> 1693.</date>
+               </dateline>
+            </opener>
+            <p>BEing deſired by Brethren to reprint this ſhort Catechiſm; and moved thereto at the Aſſociation of ſeveral Meſſengers and Elders aſſembled together at <hi>Nantwich, April</hi> 19, 1693. And looking upon my poor Endeavours to be far ſhort of what might be done in order to the inſtructing of Youth, and what ſome have done; yet in anſwer to the de<g ref="char:EOLhyphen"/>ſire of that Chriſtian Aſſembly, and the fervent Deſires of many in the Countries, I have been made willing to caſt my Mite again into the Treaſury of the many Endeavours, to promote the inſtructing of Youth in the things menti<g ref="char:EOLhyphen"/>oned, agreeable to the Will of God, in this <hi>ſhort Catechiſm;</hi> and leave the Matter therein to the Acceptance of ſome, and the Cenſures of others; but the Truth therein contained to the bleſſing of him that ordains Strength out of the Mouths of Babes; and can make it profitable to thoſe that without Pride or Prejudice conſi<g ref="char:EOLhyphen"/>der of the <hi>Anſwers</hi> to each <hi>Queſtion,</hi> grounded upon the Holy Scriptures.</p>
+            <pb n="42" facs="tcp:172060:23"/>
+            <p>I have briefly added an Epiſtle to be ſeri<g ref="char:EOLhyphen"/>ouſly conſidered by young Men and Women, in twelve Particulars: Which I do hope may be profitable in this Day, when ſo much Pride, Profaneneſs, and ſlighting the Duties of their particular States, that they are liable to in this poor mortal Pilgrimage; begging of God it may be a Bleſſing to ſome, and the Counſel of God live upon their Souls, when I, by reaſon of Decays, muſt ſhortly be in the dark ſhade of the Grave, where there is no Work to be done for the Honour of God, and Good of poor Souls, whom the great God hath ſo loved, that he hath ſent his Son to die for them, that they might live to him. <hi>Joh.</hi> 3.16. 2 <hi>Cor.</hi> 5.15.</p>
+            <p>The Things ſpoken a little unto are theſe.</p>
+            <list>
+               <item>I. To young Chriſtians, as Servants.</item>
+               <item>II. To their Eſtate as Freemen.</item>
+               <item>III. To their Eſtate, as believing and obey<g ref="char:EOLhyphen"/>ing Chriſt.</item>
+               <item>IV. As to the ſad Eſtate of Men not believ<g ref="char:EOLhyphen"/>ing nor obeying the Lord Jeſus.</item>
+               <item>V. As to a married Eſtate, and being in a dear conjugal Union.</item>
+               <item>VI. As to the State of ſome ſingle and un<g ref="char:EOLhyphen"/>married.</item>
+               <pb n="43" facs="tcp:172060:23"/>
+               <item>VII. As to your State, if Proſperity attend.</item>
+               <item>VIII. As to your State, if Adverſity attend, or a poor Condition.</item>
+               <item>IX. As to your State, if perſecuted for Righteouſneſs ſake.</item>
+               <item>X. As to the Duty in preparing for Death.</item>
+               <item>XI. Conſider of the Judgment to come.</item>
+               <item>XII. Be much in every Condition, praying and praiſing of a good God.</item>
+            </list>
+            <div n="1" type="section">
+               <p n="1">I. Then to conſider as a Chriſtian Man or Woman, as a Servant. Remember God's Eye is on you, tho your Maſter's Eye is off you. Remember, Souls, if you be faithful, humble, diligent, God will reward you, tho your Ma<g ref="char:EOLhyphen"/>ſters ſhould abuſe you. Remember the wiſe Man's words, <hi>There be four things that diſquiet the Earth; one is a Servant when he ruleth,</hi> Prov. 30.22.</p>
+               <p>Conſider well the faithfulneſs of <hi>Jacob</hi> to <hi>La<g ref="char:EOLhyphen"/>ban</hi> as a Servant, <hi>Gen.</hi> 21.38, 39.</p>
+               <p>Conſider the faithfulneſs of <hi>Joſeph</hi> in <hi>Poti<g ref="char:EOLhyphen"/>phar</hi>'s Houſe; and how God was with him, <hi>Gen.</hi> 39.1, 2, 3, 4.</p>
+               <p>Conſider the faithfulneſs of <hi>Daniel,</hi> that the Enemies could have nothing againſt him but
+<pb n="44" facs="tcp:172060:24"/>in the Matters of his God, <hi>Dan.</hi> 6.4, 5.</p>
+               <p>Take heed of a lying Tongue, vain Compa<g ref="char:EOLhyphen"/>ny, or giving way to youthful Luſts; have an Eye to God's All-ſeeing Eye, <hi>Gen.</hi> 39.9. at all times and in all places; worſhip him according to his Will revealed in his holy Word: And then it will be your Happineſs, tho Maſters op<g ref="char:EOLhyphen"/>poſe you: your Bodies ſtand ingaged in tem<g ref="char:EOLhyphen"/>poral Service to your Maſters, but your Con<g ref="char:EOLhyphen"/>ſciences ſtand ingaged to God in the Matters of Faith and Worſhip only to ſerve God. 1 <hi>Cor.</hi> 7.23. <hi>Ye are bought with a Price, be ye not the Servants of Men. A wiſe Servant ſhall have rule over a Son that cauſeth ſhame; and ſhall have part of the Inheritance among the Brethren, Prov.</hi> 17.2. Make Conſcience of your Maſter's Buſineſs, as if it were your own.</p>
+            </div>
+            <div n="2" type="section">
+               <p n="2">II. Conſider, in the Fear of God, to mind your Duty as Freemen, then looking upon your ſelves to be the Lord's Servants, uſing your Li<g ref="char:EOLhyphen"/>berty ſo as to honour him. Some young Men have had ſome ſweet Appearances of Piety, minding the things that may lead to Glory and an everlaſting Kingdom; and yet have loſt their Convictions, and ſlighted Truth, and the Ways of Chriſt, and not prized his Word: Therefore receive theſe Cautions, and take heed of vain Company; it has been the Devil's Bait to deſtroy thouſands; <hi>O ſtand not in the Way of Sinners.</hi> Conſider ſeriouſly of theſe Scriptures, <hi>Prov.</hi> 4.14. <hi>Pſal.</hi> 1.1. <hi>Prov.</hi> 13.20. 1 <hi>Cor.</hi> 15.33.
+<pb n="45" facs="tcp:172060:24"/>Take heed of prayerleſs graceleſs Yokefellows, for ſiniſter worldly luſtful Ends; put Snakes in<g ref="char:EOLhyphen"/>to your Boſom, that will rather ſting you than comfort you; hinder you in your Duties, than further you in Piety: This was the Sin of the old World, <hi>Gen.</hi> 6.2. This drew away <hi>Solo<g ref="char:EOLhyphen"/>mon</hi>'s Heart from God in his old Days, 1 <hi>Kings</hi> 11.4. Therefore in this Caſe be much in Prayer, and a divine heedfulneſs in minding Religion more than Riches, and Piety more than Porti<g ref="char:EOLhyphen"/>on, and meek Diſpoſition more than gorgeous Apparel, and Diſcretion more than outward Jewels. Conſider of <hi>Prov.</hi> 31.30. 1 <hi>Cor.</hi> 7.39. Be careful in buying and ſelling, of doing as you would be done by; avoid vain Words. Re<g ref="char:EOLhyphen"/>member the great Oracles of Heaven, <hi>Do Juſtly, love Mercy, walk Humbly with thy God, Mic.</hi> 6.8. O think on theſe things with great reverence, of that God that enjoins them, and in whoſe Hand is thy Breath.</p>
+            </div>
+            <div n="3" type="section">
+               <p n="3">III. Conſider, young Men, of the Neceſſity of true Faith. And know this is the Work of God, <hi>That you believe on him whom he hath ſent,</hi> John 6.29. even on Jeſus Chriſt; cloſe with him as your Prieſt, Prophet and King. O 'tis bleſſed Jeſus that makes an Atonement by his precious Blood: O joy in God, and in the Lord Jeſus Chriſt, by whom you by Faith re<g ref="char:EOLhyphen"/>ceive the Atonement, <hi>Rom.</hi> 5.11. It's he that is a perfect Sacrifice, <hi>Heb.</hi> 7.19. In his Name Repentance and Remiſſion of Sins is com<g ref="char:EOLhyphen"/>manded
+<pb n="46" facs="tcp:172060:25"/>to be preached among all Nations, be<g ref="char:EOLhyphen"/>ginning at <hi>Jeruſalem,</hi> Luke 24.47. They being great and grievous Sinners, yet they muſt have the offer and Call to Repentance, and the gracious tenders of Remiſſion of Sins in his Name. O Soul, conſider, 'tis he that died for thee, that thou mighteſt live to him, 2 <hi>Cor.</hi> 5.15. O Soul, 'tis he that God hath ſet forth to be a Propitiation for Sin, through Faith in his Blood, <hi>Rom.</hi> 3.25. O 'tis his Soul that became Sin for us, that we might be made the Righteouſneſs of God in him, 2 <hi>Cor.</hi> 5.21. It's his Righteouſneſs that is declared for the Remiſſion of Sins that are paſt, through the Forbearance of God; <hi>Rom.</hi> 3.25. It's he that Angels come to proclaim, like an Herald from Heaven, ſaying, <hi>Glory to God in the Higheſt, Peace and Good will towards Men.</hi> O let the Conſideration of his Love in redeem<g ref="char:EOLhyphen"/>ing thee by his precious Blood, lead thee to ſay, <hi>Lord, what wouldeſt thou have me to do?</hi> And mind his pure Word for direction in thy Duty, that is preſerved, recorded, and was confirmed with divers Signs and Miracles, and Gifts of the Holy Ghoſt, <hi>Heb.</hi> 2.3, 4, 5. He that will have a Faith that is not attended with conformity to the Will of God, and Sayings of Chriſt, will be in a Storm, like a Houſe without a Foundation. Therefore, Souls, hold faſt the Doctrine of the Holy A<g ref="char:EOLhyphen"/>poſtles of our Lord, <hi>Acts</hi> 2.42. And be mindful of the Commandments of the Apo<g ref="char:EOLhyphen"/>ſtles
+<pb n="47" facs="tcp:172060:25"/>of Chriſt, as well as to be mindful of the Words of the Holy Prophets, 2 <hi>Pet.</hi> 3.2. which are by faithful Men to be kept till the coming and appearing of Jeſus Chriſt, 1 <hi>Tim.</hi> 5.21. &amp; 6.13, 14. <hi>Rev.</hi> 3.10. <hi>John</hi> 20.31. Labour to have ſuch a Faith that leads to con<g ref="char:EOLhyphen"/>formity to Chriſt, both in Heart and Life: For the Devils believe there is a God, a Chriſt; and they tremble at God's infinite Power and Majeſty. And you young Men and Women, under the Riches of his Goodneſs, and believing the unſearchableneſs of his Mer<g ref="char:EOLhyphen"/>cy and Grace in a dear Saviour beſtowed on you, are concerned greatly to obey him; con<g ref="char:EOLhyphen"/>ſideringthat he will ſhortly come in flaming Fire, to render Vengeance upon all thoſe that under his Calls of Grace matter not. See 2 <hi>Theſſ.</hi> 1.8. <hi>Rom.</hi> 2.4. Doth he ſay, <hi>He that believes, and is baptized, ſhall be ſaved; and he that believes not, ſhall be damned?</hi> If Baptiſm be that which is to follow Faith, do not ſlight Chriſt in that Duty. <hi>Cornelius</hi> is promiſed by the holy Angel, that in ſending for <hi>Peter,</hi> he ſhall tell thee what thou oughteſt to do, <hi>Acts</hi> 10.5, 6. You find <hi>Peter</hi> commands Water-Baptiſm to thoſe that had received the extra<g ref="char:EOLhyphen"/>ordinary Meaſures of God's Spirit: Conſider <hi>Acts</hi> 10.47. So that this may be fairly con<g ref="char:EOLhyphen"/>cluded, that angels are ſubſervient to the Go<g ref="char:EOLhyphen"/>ſpel Miniſtration: For <hi>Peter</hi> had, with the reſt of the Apoſtles, the Commiſſion of Chriſt given to them, by him that had all Power in
+<pb n="48" facs="tcp:172060:26"/>Heaven and Earth, <hi>Matth.</hi> 28.19, 20. So <hi>Saul,</hi> after the Lord met him as he was going to perſecute the People of God; and upon his Queſtion, <hi>Who art thou, Lord?</hi> The An<g ref="char:EOLhyphen"/>ſwer is, <hi>I am Jeſus!</hi> O Jeſus, a Saviour; <hi>and thou perſecuteſt me in my Members and Follow<g ref="char:EOLhyphen"/>ers.</hi> Upon hearing this Voice, he falleth down trembling, and ſaith, <hi>Lord, what would<g ref="char:EOLhyphen"/>eſt thou have me to do? Go to</hi> Ananias, <hi>he ſhall tell the what thou muſt do. Ananias</hi> had a Vi<g ref="char:EOLhyphen"/>ſion, and is by the Lord ſent unto <hi>Saul,</hi> and directed unto the Street, and to the Houſe, even to <hi>Judas,</hi> to enquire for one <hi>Saul</hi> of <hi>Tar<g ref="char:EOLhyphen"/>ſus;</hi> who was obſerved by the Lord to e praying. See <hi>Acts</hi> 9.6. compared with <hi>ver.</hi> 10, 11. and when he came, laid his Hands on him, and telleth him, <hi>Jeſus that appeared to him by the Way, ſent him to him, that he might receive his Sight, and be filled with the Ho<g ref="char:EOLhyphen"/>ly Ghoſt: And immediately there fell Scales from his Eyes, and he received Sight forthwith; and aroſe, and was Baptized,</hi> Acts 9.18. compared with <hi>Acts</hi> 22.16.</p>
+               <p>O Souls, you that have not yet conformed to this bleſſed Duty, you are greatly con<g ref="char:EOLhyphen"/>cerned to put on a holy Profeſſion of Chriſt, by ſubmitting to holy Baptiſm, <hi>Gal.</hi> 3.27. and minding the Errand of that holy Duty all your Days, <hi>viz.</hi> a dying to Sin, and riſing to newneſs of Life, <hi>Rom.</hi> 8.1, 2, 3. <hi>Col.</hi> 2.12. For if Baptiſm be ſubmitted to, and not the End or Errand of it minded, it is like a
+<pb n="49" facs="tcp:172060:26"/>Sword of a Magiſtrate without Juſtice, and like a Sign without having any thing within: for the Church of <hi>England</hi> ſay right, That <hi>Baptiſm is an outward Sign of inward Grace,</hi> but none of this they can behold in an Infant, that they ſay <hi>is by Name a Child of Wrath;</hi> or many of them ſay ſo: it is like Seals with<g ref="char:EOLhyphen"/>out minding the Conditions ſpecified; or like a Souldier liſting himſelfe under his Captain, and after refuſing his Commands in fighting againſt his Enemies; which things will not be born by Men.</p>
+               <p>O Souls, do not ſlight the Will of God in point of Duty in this reſpect, and all others commanded by your Lord; for know, That <hi>Faith without Works is dead;</hi> And would you be content with a dead Faith in a dying Hour, and in the Day of your Account? Conſider <hi>James</hi> 2.19. compared with the 26th <hi>Verſe.</hi>
+               </p>
+               <p>I ſpeake the more to this Duty, becauſe ſome have changed both the Subject and the Man<g ref="char:EOLhyphen"/>ner: Others cry down this and other Ordi<g ref="char:EOLhyphen"/>nances, as if ceaſed: Others live below what they profeſs in this righteous Service. I could ſay much to the Danger of falling under ſuch Deluſions, which the good Lord keep you from. Surely we may cry out with the Pro<g ref="char:EOLhyphen"/>phet, <hi>It's time, Lord, for thee to work; for Men make void thy Law.</hi> Therefore mind thoſe Duties that relate to that bleſſed Privilege, of having a Place in God's Houſe; for they are bleſſed that dwell there, <hi>Pſal.</hi> 27.4. &amp;
+<pb n="50" facs="tcp:172060:27"/>84.4. <hi>Acts</hi> 2.42. Eſteem others better than your ſelves; walk humbly; prize Goſpel-Op<g ref="char:EOLhyphen"/>portunities, ſlight not aſſembling with the Church of Chriſt, <hi>Heb.</hi> 10.22, 23.</p>
+               <p>Labour after ſuch a Faith that pacifieth the Heart: I may aſſure you, in the Fear of God, and in the Truth of God, this is alſo a Faith of a right kind, <hi>Acts</hi> 15.10. When the Faith you have in Chriſt, in dying for your Sins, leads you, and works Death in you to your Sins, it is Faith of a ſaving Nature, <hi>Ti<g ref="char:EOLhyphen"/>tus</hi> 2.11, 14. <hi>Gal.</hi> 1.4. O Souls, when there is ſuch a Faith that believes Promiſes and Pro<g ref="char:EOLhyphen"/>phecies, though Providence ſeem to contra<g ref="char:EOLhyphen"/>dict them, as if ſuch things ſhould never be, <hi>Rom.</hi> 4.17, 18.</p>
+               <p>O Souls, conſider of the Neceſſity of Faith:</p>
+               <p>It's that which, laying hold on the Blood of Chriſt, juſtifieth, <hi>Rom.</hi> 5.1.</p>
+               <p>It's that which overcometh the World, and the Devil, <hi>Joh.</hi> 5.5. I <hi>Pet.</hi> 5.3.</p>
+               <p>It's that which will aſſure you of Eternal Life, <hi>Joh.</hi> 3.16. 1 <hi>Joh.</hi> 5.20.</p>
+               <p>It's Faith in Chriſt that makes your Pray<g ref="char:EOLhyphen"/>ers acceptable with God, <hi>James</hi> 1.6. 1 <hi>John</hi> 3.22, 23.</p>
+               <p>It's that which is the juſt Man's Life, <hi>Heb.</hi> 10.38.</p>
+               <p>It's that which is the poor Man's Riches, <hi>James</hi> 2.5.</p>
+               <pb n="51" facs="tcp:172060:27"/>
+               <p>It's that which makes good Works accepta<g ref="char:EOLhyphen"/>ble and rewardable, <hi>Heb.</hi> 11.4.</p>
+               <p>And without Faith it's impoſſible to pleaſe God, <hi>Heb.</hi> 11.6.</p>
+            </div>
+            <div n="4" type="section">
+               <p n="4">IV. Conſider the ſad State of not believing with a Faith of a right Kind.</p>
+               <p n="1">1. No Remiſſion of Sins. O dreadful is that Soul's State that dieth an Unbeliever, the Wrath of God abides on him, <hi>John</hi> 3.36.</p>
+               <p n="2">2. No Relation to God as a Son without Faith. O to come to a Death-bed, and to Judgment, and be no Child of God by Faith in Chriſt Jeſus, will be dreadful.</p>
+               <p n="3">3. No acceſs to God, nor no acceptance with God without Faith, <hi>Heb.</hi> 11.6.</p>
+               <p n="4">4. No reſiſting of Satan without Faith, 1 <hi>Pet.</hi> 5.9. Unbelief ſlights Chriſt as Prieſt, Prophet, and King: Matters not his Blood to cleanſe the foul Soul, nor his Righteouſ<g ref="char:EOLhyphen"/>neſs to clothe thy naked Soul; it lays thee open to the Motions of the Devil, to his In<g ref="char:EOLhyphen"/>ſtruments, in all obſcene, lewd, filthy Words and Actions, dreadful Intemperance, Ly<g ref="char:EOLhyphen"/>ing, Swearing, Deceit, Hypocrify, Envy, Wrath, and all manner of Pride, Vain-glory, <hi>&amp;c.</hi> liſtening to the Apoſtles of the Devil; Factors of Hell in their filthy fleſh-pleaſing Songs and prophane Ballads; and all the black Guard that wait on the Devil, rejoice at thy not mattering what he commands, and canſt run into what he forbids.</p>
+               <pb n="52" facs="tcp:172060:28"/>
+               <p n="5">5. Unbelief makes God a Liar. O woful Impudence! <hi>He that believeth not God, hath made him a Liar, becauſe he believeth not the Record he gave of his Son,</hi> 1 John 5.10, 11. <hi>And this is the Record he gives of his Son, He hath gi<g ref="char:EOLhyphen"/>ven to us Eternal Life.</hi> And the not cloſing with Chriſt, is to reject the Lord's deſigned Way of Salvation; to prefer the <hi>Light with<g ref="char:EOLhyphen"/>in</hi> to be our Saviour, or <hi>Conviction</hi> to be our Saviour, or our <hi>own Works</hi> to be our Saviour, is to ſet up Idols in our Hearts, inſtead of our only dear Redeemer, that hath done that for every Man in his own Body, being a perfect Sacri<g ref="char:EOLhyphen"/>fice for Sin, <hi>by bearing our Sins in his own Bo<g ref="char:EOLhyphen"/>dy on the Tree.</hi> This ought to be applied by Faith inwardly, and works a change both in Heart and Life, and teacheth to deny all Un<g ref="char:EOLhyphen"/>godlineſs, and to live to him ſoberly, righte<g ref="char:EOLhyphen"/>ouſly, and godly.</p>
+               <p>It's in him that the Father declareth <hi>he is well pleaſed,</hi> Mat. 17.5.</p>
+               <p>It's in him that poor Sinners are called to Behold; ſaying, <hi>Behold, Behold me to a Na<g ref="char:EOLhyphen"/>tion that is not called by his Name,</hi> Iſa. 65.1. &amp; 53.6.</p>
+               <p>It's he that is lifted up, <hi>even as</hi> Moſes <hi>lifted up the brazen Serpent; that whoſoever believeth on him might not periſh, but have Eternal Life,</hi> John 3.14, 15. the true Chriſt of God, God and Man; and to reject him, is to ſtumble at him that God hath deſigned by Faith in him to be thy Saviour, <hi>Rom.</hi> 9.32, 33.</p>
+            </div>
+            <div n="5" type="section">
+               <pb n="53" facs="tcp:172060:28"/>
+               <p n="5">V. Young Men and young Women, as to your ſingle State, or unmarried; mind what is offered to conſideration in the third State of Life frees from many Incumbrances. Take heed of pretending Love, where there is no<g ref="char:EOLhyphen"/>thing in true reality intended; for God is the Avenger of ſuch wicked hypocritical Deal<g ref="char:EOLhyphen"/>ings in any Matter: and then in ſuch a Mat<g ref="char:EOLhyphen"/>ter and Caſe, ſee 1 <hi>Theſſ.</hi> 4.5, 6. And though good <hi>Paul</hi> could wiſh that all where as he; yet from thoſe natural Inclinations that are in ſome, it's better to marry than to burn in Iuſtful Deſires. I ſhall in this Caſe ſay, as our Lord ſaith of ſome that make themſelves Eu<g ref="char:EOLhyphen"/>nuchs for the Kingdom of Heaven's ſake, <hi>He that is able to receive it, let him receive it.</hi> Mat. 19.12. 1 <hi>Cor.</hi> 7.9.</p>
+            </div>
+            <div n="6" type="section">
+               <p n="6">VI. As to your State as married. O conſi<g ref="char:EOLhyphen"/>der of your Duties in that near and dear Uni<g ref="char:EOLhyphen"/>on, laid down in ſeveral divine holy Directions in Scripture.</p>
+               <p n="1">1. Remember your Wife is Fleſh of your Fleſh, Bone of your Bone; and Chriſt ſaith, <hi>They twain ſhall be one Fleſh,</hi> Matth. 19.5.</p>
+               <p n="2">2. Remember they are the weaker Veſſels, and give honour to them, 1 <hi>Pet.</hi> 3.9.</p>
+               <p n="3">3. Remember <hi>a good Wife is from the Lord;</hi> prize them very highly, that are the Benedi<g ref="char:EOLhyphen"/>ctions of your glorious Creator; ſee <hi>Prov.</hi> 19.14.
+<pb n="54" facs="tcp:172060:29"/>&amp; 18.22. ſhe is a great help Meet to poor Man; ſhe is like the Merchant's Ship, ſhe fetcheth her Food from far, fetcheth former and latter Experiences, and ſtrengthens Hope in God under preſent Difficulties; ſhe fetcheth the Counſel of Heaven in divine Laws; the Comfort of Heaven in great and precious Pro<g ref="char:EOLhyphen"/>miſes: Thou muſt depend in a lower ſenſe, upon her Loyalty, Care, Diligence, Chaſtity: ſee <hi>Prov.</hi> 31.11th Ver. compared with the 14th. The Law of Kindneſs is in her Mouth, <hi>Prov.</hi> 31.26.</p>
+               <p n="4">4. Love her in Reality, as Chriſt loved his Church, ſo as to ſupport, nouriſh, comfort, avoiding Bitterneſs in Words or Actions, <hi>Col.</hi> 3.19.</p>
+               <p n="5">5. Labour to live with her as a Man of Know<g ref="char:EOLhyphen"/>ledg, in much Wiſdom at all times, affording Inſtructions in Meekneſs, and by good Examples of Piety, in holineſs of Heart &amp; Life, provoking of them to Love and good Works, but not to Strife. O Soul, let there be no Strife, except ye ſtrive who ſhall be moſt holy, moſt hum<g ref="char:EOLhyphen"/>ble, moſt zealous for good Matters, moſt cha<g ref="char:EOLhyphen"/>ritable, and moſt ſelf-denying.</p>
+               <p n="6">6. In theſe things live together as Heirs of the Grace of Life, that your Practice be not hin<g ref="char:EOLhyphen"/>dred. Remember that the Wife is called <hi>the de<g ref="char:EOLhyphen"/>ſire of the Eye;</hi> and <hi>Job</hi> ſaith, <hi>I have made a Co<g ref="char:EOLhyphen"/>venant with mine Eyes, why then ſhould I look up<g ref="char:EOLhyphen"/>on a Maid?</hi> Job 31.1. Ezek. 24.16. Give not way to luſtful Deſires after any other, nor to
+<pb n="55" facs="tcp:172060:29"/>evil Concupiſcence; and deal not treacherouſ<g ref="char:EOLhyphen"/>ly with the Wife of thy Covenant. This was a Sin of old, that tho ſome covered his Altar with Tears, he regarded them not; ſee <hi>Mal.</hi> 2.13, 14. Remember thou muſt as an Husband and as a Wife give an Account to God how thou haſt lived in thy relative Duties towards her, and ſhe towards thee. And therefore you Wives labour after the Ornament of a meek and quiet Spirit: See that you reverence your Husbands, and in your Vertues be as a Crown to them, 1 <hi>Pet.</hi> 3.4. <hi>Epheſ.</hi> 6.22, 24. <hi>Prov.</hi> 12.4. O do no unſeemly things, in Words or Acti<g ref="char:EOLhyphen"/>ons, to be as Rottenneſs in his Bones, <hi>Prov.</hi> 12.4. Remember he is thy Head, and yet thou art concern'd in Matters of Faith and Worſhip, there to own God and Chriſt above the deareſt Relation in the World.</p>
+            </div>
+            <div n="7" type="section">
+               <p n="7">VII. If you have Proſperity in outward things, conſider;</p>
+               <p n="1">1. It comes not from the Eaſt or from the Weſt, but from the Lord of the whole Earth, <hi>Pſal.</hi> 75.6, 7.</p>
+               <p n="2">2. All things here are uncertain and unſa<g ref="char:EOLhyphen"/>tisfying, and ſoon taken from you, or you from them, <hi>Eccleſ.</hi> 5.10. <hi>Prov.</hi> 23.5.</p>
+               <p n="3">3. You are Stewards with what God puts into your Hands, and muſt ſhortly give an Ac<g ref="char:EOLhyphen"/>count, <hi>Jam.</hi> 5.1, 2, 3, 4.</p>
+               <p n="4">4. If you have not true Wiſdom to uſe it, you may be deſtroyed with it: <hi>Prov.</hi> 1.32.
+<pb n="56" facs="tcp:172060:30"/>
+                  <hi>The Proſperity of Fools deſtroyeth them.</hi> Pſal. 73.12.</p>
+               <p>Conſider, the World is like a Lottery: ſome come into it with their Heads full of Win<g ref="char:EOLhyphen"/>nings, and go out of it with their Hearts full of Loſings. Take heed of being lifted up with Pride, under Riches or Honour: Conſi<g ref="char:EOLhyphen"/>der, <hi>Pride goeth before Deſtruction; and an haughty Spirit before a Fall,</hi> Prov. 16.18. Re<g ref="char:EOLhyphen"/>member, he that travelled upon the higheſt Stage of this World's Glory, and had Wiſdom to find out the Excellency of natural Things, from the Cedar in <hi>Lebanon,</hi> to the Hyſop on the Wall, and to make trial of all things for ſatisfaction under the Sun, 1 <hi>King.</hi> 4.33. Yet in all his great Enjoyments, he proclaims, <hi>All was vanity and vexation of Spirit.</hi> If Proſperi<g ref="char:EOLhyphen"/>ty attend, take heed of Covetouſneſs, Pride, Uncharitableneſs. O do Good in the World, with the things of the World. Take heed, dear Souls, of abounding with Superfluities, while ſome of God's Children want Neceſſa<g ref="char:EOLhyphen"/>ries. The divine Charge is given to thoſe that are Rich, <hi>That they be not high-minded; that they truſt not in uncertain Riches, but in the living God. Be ready to diſtribute, willing to communi<g ref="char:EOLhyphen"/>cate, laying up for themſelves a good Foundation for the time to come.</hi> This way to lay out, even <hi>to do good to all, eſpecially to the Houſhold of Faith,</hi> is the way to lay up, 1 <hi>Tim.</hi> 6.18, 19. And the <hi>liberal Soul ſhall be made fat,</hi> Prov. 11.25. O be uſing the World as Strangers do their Inn;
+<pb n="57" facs="tcp:172060:30"/>they count a Bait no Let. O let all the Provi<g ref="char:EOLhyphen"/>dences of God attending you, as to Health, Strength, as to Trade, as to yearly Reve<g ref="char:EOLhyphen"/>nues, as to a good Wife or good Husband, as to good Children, as to Reputation, lead you in things given, to admire the Giver; and to love things given ſo far, as you may honour the Giver. Prov. 3.9. <hi>Honour the Lord with thy Subſtance;</hi> and there is promiſed an Increaſe. O Soul, if the Streams be ſweet, what is the Fountain! And if the Creature be ſweet, what is the Creator! O Souls, ſerve God with all, labour to love God above all; and be content to be at his diſpoſe in all: 1 <hi>Chron.</hi> 29.14. <hi>Mat.</hi> 10.37. <hi>Iſa.</hi> 39.7, 8. <hi>Job</hi> 1.21. Conſider, in great Proſperity you live upon Alms; have no<g ref="char:EOLhyphen"/>thing but what the great God gives you, and live daily on his bountiful Benevolence; and as he deſcends with Favours to you, ſo do you aſcend with Thankfulneſs to him: <hi>Give us this Day our daily Bread,</hi> our Lord teacheth us to pray; and cannot we live well one Day with<g ref="char:EOLhyphen"/>out Bread? then let's ask it every Day, and be thankful for it. <hi>David</hi> roſe at Midnight to praiſe God; but it's hardly ſome Mens Mid<g ref="char:EOLhyphen"/>day Work. Hide not your Face from your own Fleſh: While ſome poor Relations are in Want, if thou haſt Proſperity, look not with a ſcornful, but with a pitiful Eye upon them; <hi>Thy own Friend, and thy Father's Friend, do not forget,</hi> Iſa. 58.7. Prov. 27.10. <hi>Job</hi> in his Pro<g ref="char:EOLhyphen"/>ſperity cauſed the Widow to ſing; and pulled
+<pb n="58" facs="tcp:172060:31"/>the Poor out of the Jaw-teeth of the Wicked: And the Bleſſings of them that were ready to periſh, came upon him; read the 31ſt Chapter of <hi>Job.</hi> O how hath the Abuſe of Proſperity, and growing Proud, overturned <hi>Sodom?</hi> Ezek. 16.49. brought down that great Monarch <hi>Nebuchadnezzar,</hi> overturned <hi>Belſhazzar;</hi> ſmote <hi>Herod</hi> with Worms for taking the popular Ap<g ref="char:EOLhyphen"/>plauſe of the People, who died immediately, <hi>Acts</hi> 12.23. Thoſe that ſlight Chriſt's Work and Way for the love of theſe worldly things, ſhall never taſte of his Supper, <hi>Luke</hi> 14. 18-24.</p>
+               <p>How have ſome, for the love of this World, and the things therein, forſook the Aſſembly of the true Church, and the divine Inſtituti<g ref="char:EOLhyphen"/>ons; and fallen in with a falſe Church, a falſe Miniſtry, and countenanced a company of vain Traditions in the pretended Worſhip of God; and for fear of humane Fury, fell un<g ref="char:EOLhyphen"/>der the Fury of divine everlaſting Vengeance; and are in danger (without true Repentance) for rejecting Light, to be caſt into utter Dark<g ref="char:EOLhyphen"/>neſs? O Souls, tremble at that Word that ſaith, <hi>They ſhall drink of the Lord's Wrath, poured out without Mixture,</hi> Rev. 14.9, 10.</p>
+               <p>Conſider <hi>Moſes,</hi> Heb. 11.24. the three Chil<g ref="char:EOLhyphen"/>dren, <hi>Dan.</hi> 3. <hi>Daniel</hi>'s Caſe, <hi>Peter</hi> and <hi>John</hi>'s Caſe, <hi>Acts</hi> 4.5. <hi>Antipas</hi> his Caſe, and the Church's Courage in that Day, <hi>Rev.</hi> 2.13. The Caſe of <hi>Stephen,</hi> and all the bleſſed Martyrs. Some were in great Proſperity outwardly, but
+<pb n="59" facs="tcp:172060:31"/>did not neglect what God commanded, nor cowardly comply ſinfully, but hazarded all, even Life it ſelf.</p>
+               <p>Watch and pray in theſe things, that Pro<g ref="char:EOLhyphen"/>ſperity be not your Ruine, by complying with ſinful Temptations, while you ſhall dare to put a Blot upon God's <hi>[Not:] Touch not, taſte not, handle not, after the Commands and Doctrines of Men,</hi> Col. 2.21.</p>
+            </div>
+            <div n="8" type="section">
+               <p n="8">VIII. As to Adverſity, or being in a poor low Condition in this World, remember theſe things:</p>
+               <p n="1">1. That <hi>Godlineſs with Contentment is great Gain.</hi> As it is not the bigneſs of the Cage that makes the Bird to ſing, without a ſecret Inſtinct; ſo it is not having little of this World that ſhould caſt thee down, ſince com<g ref="char:EOLhyphen"/>manded by the Lord <hi>to be content with ſuch things as ye have,</hi> Heb. 13.5.</p>
+               <p n="2">2. Conſider, <hi>A little with the Fear of God, is better than the Riches of many Wicked,</hi> Pſal. 37.16. Conſider <hi>Eccleſ.</hi> 4.6. <hi>Prov.</hi> 16.8. Con<g ref="char:EOLhyphen"/>ſider, dear Souls, it's better to be in the mean<g ref="char:EOLhyphen"/>eſt Condition in this World that poſſible may be, with the Enjoyment of Chriſt and Truth, than in the higheſt Condition without him and it: In a word, it's better to ſuffer with him, than reign without him: Conſider, it's better to be with a <hi>Lazarus</hi> in his Rags and Sores, keeping Integrity, than to be with a <hi>Dives</hi> in his Riches and Robes, in a State of Wick<g ref="char:EOLhyphen"/>edneſs
+<pb n="60" facs="tcp:172060:32"/>and Senſuality, <hi>Pſal.</hi> 73.12. <hi>Luke</hi> 15.19, 20, 21, 22.</p>
+               <p>Have ſome their Beds of Ivory, ſtately Pla<g ref="char:EOLhyphen"/>ces of Reſt? O but, poor Believer, haſt thou Reſt from the damning Guilt of Sin? Reſt from the Curſe of the Law? Reſt from an accuſing Conſcience, through Faith in Chriſt? <hi>Mat.</hi> 11.28. O wouldſt thou part with this for theirs? Surely no.</p>
+               <p>Have they the Fat of the Flock, and their curious Dainties? And what if thou haſt mean Food and coarſe Bread, but art parta<g ref="char:EOLhyphen"/>ker of Chriſt by Faith as the true Bread of Life, and art nouriſhed by him up to Eternal Life? <hi>John</hi> 6.51, 54. O doſt thou enjoy the Fulneſs of God's Houſe, Chriſt as held forth in his Word and Ordinances? Surely, poor Soul, thou couldeſt not part with him for all the Epicurean's Dainties.</p>
+               <p>Have they their Wine in Bowls, and thou the Water of Affliction? yet art refreſhed with his Love, that is better than Wine, yea better than Life, <hi>Cant.</hi> 4.10. O how hath the Wine of his Love cheared thy wounded Spirit, when nothing elſe would avail! <hi>Pſal.</hi> 63.3.</p>
+               <p>Do Men in their Pomp chant to the Sound of the Viol, and have their melodious Sounds? O but, poor Soul, haſt thou heard the joyful Sound of Remiſſion of Sins, and Everlaſting Life through a dear Redeemer, and art framing thy Soul and Body to the teaching of
+<pb n="61" facs="tcp:172060:32"/>this joyful Sound? O be content, thy Enjoy<g ref="char:EOLhyphen"/>ments are far beyond theirs. Conſider <hi>Pſal.</hi> 89.15. O the bleſſed ſound of the Goſpel in the Benefits of his Death, Reſurrection, Aſ<g ref="char:EOLhyphen"/>cenſion and Interceſſion may make thee ex<g ref="char:EOLhyphen"/>ceeding joyful.</p>
+               <p>Poor Soul, have they their choice Oint<g ref="char:EOLhyphen"/>ments and Perfumes; and thou haſt thy ſmoaky Houſe and poor Enjoyments? Yet, Soul, conſider, if thou haſt the Anointings of God's Spirit, this is far beyond what they enjoy, 1 <hi>John</hi> 2.27. The Spirit quickens, the Spirit comforts, the Spirit leads into Truth: Take heed of that Spirit that leads from Goſpel-Inſtitutions and Commands, that's a Cheat of the Devil. The holy A<g ref="char:EOLhyphen"/>poſtles ſay, <hi>He that is of God, heareth us; and hereby know we the Spirit of Truth from the Spirit of Error,</hi> 1 John 4.6. <hi>The Spirit wit<g ref="char:EOLhyphen"/>neſſeth with our Spirits, that we are the Sons of God; and ſealeth us to the Day of Redemption.</hi> And Soul, is not this far beyond all the plea<g ref="char:EOLhyphen"/>ſant Artificial Savours in the World? Well, be content, Soul, if you have your Hell here, and your Heaven hereafter, it's well enough: <hi>Rejoice in hope of the Glory of God,</hi> Rom. 5.2. Though poor in this World, yet if rich in Faith, thou art happy, <hi>Jam.</hi> 2.5.</p>
+               <p>And now I beſeech you, take heed of thoſe things that bring ſome into a low poor Eſtate in this World.</p>
+               <pb n="62" facs="tcp:172060:33"/>
+               <p>I ſhall give ſome Hints at ſome of them:</p>
+               <p n="1">1. Beware of <hi>Slothfulneſs;</hi> this brings Po<g ref="char:EOLhyphen"/>verty like an armed Man on ſome, <hi>Prov.</hi> 6.11.</p>
+               <p n="2">2. Beware of <hi>Suretyſhip:</hi> Why ſhould thy Bed be taken from under thee? <hi>Prov.</hi> 6.1. &amp; 22.27.</p>
+               <p n="3">3. Take heed of luſtful ſinful Deſires of <hi>ſtrange Women;</hi> though their Lips drop as an Hony-comb, ſuch have been a Snare to many: <hi>A Dart hath ſtruck through the Liver; and their Wealth hath been in the Houſe of Strangers,</hi> Prov. 5.3, 10.</p>
+               <p n="4">4. Beware of rejecting of <hi>Inſtruction,</hi> or <hi>ſober Reproof;</hi> this brings Poverty, <hi>Prov.</hi> 13.18.</p>
+               <p n="5">5. Beware of loving <hi>coſtly Superfluities,</hi> Wine and Oil, when there is no need of them, <hi>Prov.</hi> 23.21. &amp; 21.17.</p>
+               <p n="6">6. Take heed of <hi>covetouſly with-holding more than is meet</hi> in point of Charity, to Objects of great Miſery; this tends to Poverty, <hi>Prov.</hi> 11.24.</p>
+               <p n="7">7. Beware of <hi>giving to the Rich,</hi> and <hi>with<g ref="char:EOLhyphen"/>holding from the Poor,</hi> Prov. 22.16.</p>
+               <p n="8">8. Take heed of delighting in the Com<g ref="char:EOLhyphen"/>pany of <hi>vain Perſons;</hi> ſuch ſhall have Poverty enough, <hi>Prov.</hi> 28.19.</p>
+               <p n="9">9. Take heed of <hi>Oppreſſion,</hi> though thou be poor, of oppreſſing the Poor: <hi>Prov.</hi> 28.3. <hi>It is like a ſweeping Rain that leaves no Food.</hi>
+               </p>
+               <pb n="63" facs="tcp:172060:33"/>
+               <p>Now I beſeech you conſider of theſe Cau<g ref="char:EOLhyphen"/>tions, that Men oft-times make themſelves poor by ſuch things as ought to be avoid<g ref="char:EOLhyphen"/>ed.</p>
+            </div>
+            <div n="9" type="section">
+               <p n="9">IX. Something briefly offered, in caſe it ſhall be your State to be perſecuted; which all that will live godly in this World muſt and may expect, until that glorious Day come that God will make a new Heaven and a new Earth.</p>
+               <p>And as to your being perſecuted for Righte<g ref="char:EOLhyphen"/>ouſneſs-ſake, either for doing what God Commands, or for not doing what he For<g ref="char:EOLhyphen"/>bids:</p>
+               <p n="1">1. Commit your Souls to God in well-doing; fear him, truſt in him, let him be your Fear and Dread, <hi>Iſa.</hi> 8.13.</p>
+               <p n="2">2. Rather in the fore-mentioned Caſes, chuſe to ſuffer than to ſin.</p>
+               <p n="3">3. Keep a good Conſcience, for that will bear you up under all hard Trials; Integrity will afford daily Joy, <hi>Acts</hi> 24.16.</p>
+               <p n="4">4. Be purely ſuffering in a principle of Love to God and Chriſt, if ever you would be owned by God and Chriſt; if otherwiſe, all Suffering may be nothing, 1 <hi>Cor.</hi> 13.3.</p>
+               <p>My Friends, give me leave, that have been five times in Priſon for my Lord's Cauſe, and ſometimes beaten, and often fined, to beſeech
+<pb n="64" facs="tcp:172060:34"/>you to avoid theſe things in ſuffering, if God permit Trials to come upon you.</p>
+               <p n="1">1. Take heed of unbelief of Promiſes: O that Promiſe, <hi>If ye be reproached for the Name of Chriſt, happy are ye,</hi> 1 Pet. 4.14. <hi>They that ſuffer for Righteouſneſs ſake, happy are they, great is their Reward in Heaven,</hi> Mat. 5.10, 11. <hi>They ſhall have in what they loſe, an hundred fold in this preſent time, and in the World to come Eternal Life,</hi> Mat. 10.30. Surely a faithful Sufferer experiences ſweet Comforts from God in the enjoyment of his Spirit, comfort of his Promiſes, Providences waiting, great Grace attending. O the ſweet Comfort and Diſco<g ref="char:EOLhyphen"/>veries! when <hi>John</hi> was baniſhed into the Iſle of <hi>Patmus,</hi> or a place of Death, he never met with the like Diſcoveries before, in order to a manifeſting in his four-fold Viſions what ſhould ſhortly come to paſs; never the like Diſcove<g ref="char:EOLhyphen"/>ries before, <hi>Rev.</hi> 1.9. The three Children had a glorious Preſence; in the fiery Furnace they were preſerved, and thoſe that caſt them in, were deſtroyed; their Enemies convinced no God was like their God, <hi>Dan.</hi> 3.29. &amp; 6.26. <hi>Daniel</hi> in the Lion's Den, an Angel guarding of him, Lions reſtrained from hurting of him, the Informers deſtroyed before they came to the bottom of the Den, <hi>Dan.</hi> 6.24. <hi>Paul</hi> and <hi>Silas</hi> in the Dungeon, their Backs bleeding, their Feet in the Stocks, they at Midnight prai<g ref="char:EOLhyphen"/>ſing God and praying; the Priſon ſhaking, the
+<pb n="65" facs="tcp:172060:34"/>enraged Jaylor trembling, and he and his, after the Word was preached to him, and all that were in his Houſe, believing; and to Chriſt in holy Baptiſm conforming. Thus you ſee there may be an hundred-fold more than formerly was enjoyed of divine Comfort and Strength, <hi>Acts</hi> 16.24, to 34. Diſcoveries, Preſervation, ſome out of weakneſs have been made ſtrong. O conſult, Soul, that little Book of Martyrs, <hi>Heb.</hi> 11. Beſides what ſhall be accompliſhed when the Saints ſhall poſſeſs the Kingdom; yea, the greatneſs of it under the whole Hea<g ref="char:EOLhyphen"/>vens ſhall be given to them, <hi>Dan.</hi> 7.27. <hi>Rev.</hi> 5.10. <hi>Pſal.</hi> 45.16. <hi>Rev.</hi> 20.4, 5, 6.</p>
+               <p n="2">2. Souls take heed in a ſuffering Day of Self-confidence. When Self-denial will help thee to be a faithful Martyr, Self-confidence will make thee but an unfaithful Souldier, an impa<g ref="char:EOLhyphen"/>tient Sufferer, and a ſinful Complier: much of this I have ſeen in the Days of our late Trials. He that truſts his own Heart, is a Fool, <hi>Prov.</hi> 28.26. <hi>Peter</hi> promiſed much out of a Temp<g ref="char:EOLhyphen"/>tation, but fell foully under the Temptation. O ſtay on him that gives Strength to them that have no Might, <hi>Iſa.</hi> 40. <hi>ult.</hi>
+               </p>
+               <p n="3">3. Take heed of carnal Counſel in a ſuffer<g ref="char:EOLhyphen"/>ing State. There are many will ſay, Save your ſelves by complying; and leave off bearing their Teſtimony, and comply, contrary to their Light, cowardly; God diſowned, Con<g ref="char:EOLhyphen"/>ſcience wounded, Comforts clowded; and in
+<pb n="66" facs="tcp:172060:35"/>ſaving themſelves here, without infinite Mercy may loſe Eternal Life hereafter, <hi>Luke</hi> 9.24, 25.</p>
+               <p n="4">4. Take heed of over-loving Self, or the World more than Chriſt and Truth; it will bring you to a dreadful Day, in which you ſhall not be worthy of Chriſt. Remember you are not your own, but were bought with his precious Blood, when you deſerved nothing but Wrath; and think not much to hazard your All for him. Conſider, the <hi>Croſs</hi> is in<g ref="char:EOLhyphen"/>terlaid with the <hi>Crown.</hi> Love not the World, nor the things (1 <hi>John</hi> 2.15.) that are in the World, neither equal with God, nor above God; it will declare, if you ſo do, that the Love of the Father is not in you, <hi>Mat.</hi> 11.37. <hi>Rev.</hi> 1.10.</p>
+            </div>
+            <div n="10" type="section">
+               <p n="10">X. O conſider ſomething as relating to the irreſiſtable Decree of God, even Death and Judgment, <hi>Heb.</hi> 9.27. O conſider, it will not be long e're thou muſt be ſtrugling with thy laſt Enemy: O reſtleſs Death, when Weak<g ref="char:EOLhyphen"/>neſs will be attending, Strength failing, natu<g ref="char:EOLhyphen"/>ral Spirits expiring, Death-Sobs attending, Friends weeping, and you departing from the World, Friends and Relations: O happy then, yea fully bleſſed, if dying in the Lord, <hi>Rev.</hi> 14.13. where <hi>John</hi> is commanded to write it. O preſume not upon a long Life, it is a great hinderance to a good Life. O for God's
+<pb n="67" facs="tcp:172060:35"/>ſake, and for your eternal Welfare-ſake, do not forget your dying Hour, nor your latter End, leſt you come down wonderfully, and there be none to help you, <hi>Lam.</hi> 1.9.</p>
+               <p n="1">1. God doth affectionately wiſh it, <hi>Deut.</hi> 32.29.</p>
+               <p n="2">2. God doth graciouſly direct you to hear Counſel, and receive Inſtruction, that ye may be wiſe in your latter End, <hi>Prov.</hi> 19.20.</p>
+               <p n="3">3. Labour to live ſo as you would wiſh when your Eyes come to be cloſed, <hi>Prov.</hi> 5.11. <hi>Numb.</hi> 23.10.</p>
+               <p n="4">4. Whatever your Hand findeth to do, that is agreeable to the Lord's holy Will, do it with all your Might, knowing there is no Work to be done in the Grave, <hi>Eccleſ.</hi> 9.10.</p>
+               <p n="5">5. Remember you muſt die; but the Time when, the Place where, the Manner how, you know not. <hi>Evil falls out to Man, and he know<g ref="char:EOLhyphen"/>eth it not,</hi> Eccleſ. 9.12.</p>
+               <p n="1">(1.) In order to your dying Hour, let Time and Duty go together, <hi>Mat.</hi> 24.46.</p>
+               <p n="2">(2.) Let a holy Reverence of God attend you in all Actions, Places and Conditions, 1 <hi>Pet.</hi> 1.17.</p>
+               <p n="3">(3.) Let the Contemplations of God's Love in Chriſt to you, engage you to ſay daily to your own Hearts, What am I? what do I? whither go I? O Souls, as it is the Wiſdom of Men to ſet their Houſe in order, and to make their Wills in diſpoſing of what they
+<pb n="68" facs="tcp:172060:36"/>have; ſo let it be thy Work to ſet thy Heart in order, that thou mayeſt have nothing to do but to die when thou comeſt to ſtruggle with thy laſt Enemy, and Time muſt be here no longer. O remember the golden Sands of Time are running out apace, and the Glaſs of Time will never be turned, till it be turned in eternal Weal or Wo.</p>
+            </div>
+            <div n="11" type="section">
+               <p n="11">XI. Conſider of Judgment to come. O Soul, if Death take thee Secure, Carnal, Hypo<g ref="char:EOLhyphen"/>critical, Murmuring, unfaithful to thy Light, Diſobedient or Lukewarm, or a Backſlider, or Covetous, or a Complier with ſome ſecret Sins; as Death takes you, ſo Judgment will find you; and all the Manifeſtations of God to you ſhall be diſcovered when the Books ſhall be opened: And no ſooner the Judg ſhall ſpeak, but Conſcience ſhall ſay, True, Lord; and God himſelf will be a ſwift Witneſs againſt thy ſe<g ref="char:EOLhyphen"/>cret Sins, not repented of: <hi>Act.</hi> 3.19. <hi>Mal.</hi> 3.5.</p>
+               <p>Remember, this was one great Doctrine that the Apoſtles of our Lord were to preach and teſtify, <hi>That it was he that was ordained of God to be the Judg of Quick and Dead,</hi> Acts 10.42.</p>
+               <p>O young Man remember, for the Deſire of thine Eyes, and the Way of thine Heart, <hi>for theſe things God will bring thee into Judgment,</hi> Eccleſ. 11.9. O Chriſtians, <hi>grudg not one a<g ref="char:EOLhyphen"/>gainſt another;</hi> yea, <hi>behold, the Judg ſtands at the Door,</hi> Jam. 5.9. Have fervent Charity one
+<pb n="69" facs="tcp:172060:36"/>to another, that is the Bond of Perfectneſs; and <hi>be diligent, that ye may be found of him in Peace, without ſpot and blameleſs,</hi> 2 Pet. 3.14. Mat. 18.34, 35. O do not hide your Talents, but improve your Meaſures given; and remem<g ref="char:EOLhyphen"/>ber, it will be ſad to have that Sentence paſs, <hi>Take that unprofitable Servant, caſt him into utter Darkneſs, there ſhall be weeping and gnaſhing of Teeth,</hi> Mat. 25.30. O forget not to think of his appearing, that will certainly render to every one according to his Works, <hi>Mat.</hi> 16.27. <hi>Rev.</hi> 22.12. O Soul, think oft of that Jeſus that died for you, will ſhortly come to judg you; the laſt Trump ſounding, the Judg deſcend<g ref="char:EOLhyphen"/>ing, holy Angels attending, Graves opening, the Dead riſing; Hypocrites, Unbelievers, diſobedient Perſons, weeping, wailing; ſe<g ref="char:EOLhyphen"/>cret Counſels of all Hearts ſhall be diſcovered: Therefore live in this preſent Day, with a ho<g ref="char:EOLhyphen"/>ly preparation for that Day, in taking heed to thy Thoughts, 1 <hi>Cor.</hi> 4.5. <hi>Eccleſ.</hi> 12.14. Take heed to thy Words, <hi>Mat.</hi> 12.36. O take heed of idle Words. <hi>Swear not at all;</hi> it's forbidden, <hi>Mat.</hi> 5.34. <hi>Jam.</hi> 5.12. Take heed of Lying, Curſing, Backbiting, Railing. <hi>Grievous Words ſtir up Wrath,</hi> Prov. 15.1. Look to your Actions, and do not omit what God com<g ref="char:EOLhyphen"/>mands; nor dare to commit what he forbids. Eternal Judgment is a Chriſtian Principle, <hi>Heb.</hi> 6.2.</p>
+               <p>And now that ye may be helped to mind
+<pb n="70" facs="tcp:172060:37"/>theſe things, I come to the laſt thing pro<g ref="char:EOLhyphen"/>pounded, and that is Prayer.</p>
+            </div>
+            <div n="10" type="section">
+               <p n="12">XII. O poor young Man, haſt thou cauſe to flee youthful Luſts, to follow after Righteouſ<g ref="char:EOLhyphen"/>neſs, Faith, Charity, Peace, and keep ſuch Company as call on God out of a pure Heart? 1 <hi>Tim.</hi> 2.11. Haſt thou, poor Soul, a Devil to reſiſt, a World to over come, ſome Corrup<g ref="char:EOLhyphen"/>tions to mortify, a deceitful Heart to watch over, a Goſpel to obey, a Kingdom to ob<g ref="char:EOLhyphen"/>tain? O Souls, watch and pray; make Con<g ref="char:EOLhyphen"/>ſcience of ſecret Prayer, and be earneſt for thoſe things <hi>Jabez</hi> begged of God, 1 <hi>Chron.</hi> 4.10. For your encouragement, remember, He that ſeeks God early, ſhall find him; O a bleſ<g ref="char:EOLhyphen"/>ſed Promiſe! <hi>Prov.</hi> 8.17. Pray earneſtly for the divine Operations of the holy Spirit, with the bleſſed Fruits of it. Chriſt hath promiſed, if they that are evil, know how to give good things to their Children, how much more ſhall your, heavenly Father give his Spirit to them that ask it? <hi>Luke</hi> 11.13.</p>
+               <p>O pray for Wiſdom as Servants, to diſcharge your Duty in your Places, that the Name and Doctrine of God be not blaſphemed.</p>
+               <p>O pray for Wiſdom as Freemen, that you may always be concerned in ſerving God in true Holineſs and Righteouſneſs all your Days.</p>
+               <p>O pray for a Faith of a right kind, and ſay as the Apoſtles, <hi>Lord increaſe our Faith;</hi> mind
+<pb n="71" facs="tcp:172060:37"/>what Chriſt hath done, is a doing, and will do.</p>
+               <p>As to a married State, pray for Wiſdom to diſcharge your relative Duties; Husband to Wife, and Wife to Husband, living in the Fear of God. As to your State unmarried, devote your ſelves ſo much the more to wait on and ſerve the Lord, if Virgin Diſciples, as <hi>John</hi> the beloved Diſciple is ſaid by ſome Authors to be, and holy <hi>Paul.</hi>
+               </p>
+               <p>If in a proſperous Condition, beg a humble, thankful, charitable Heart; remembring you are Stewards for God. And as to your State in meeting with Adverſity, beg Patience, Con<g ref="char:EOLhyphen"/>tentment; admire the leaſt Mercy under the greateſt Miſery, <hi>Lam.</hi> 3.22.</p>
+               <p>As to your State if perſecuted; beg Wiſ<g ref="char:EOLhyphen"/>dom, Courage, Conſtancy, of him that gives Strength to them that have no Might.</p>
+               <p>As to your Duty in preparing for Death; O pray that you may have your Light ſhining, your Lamps burning, and you like Men wait<g ref="char:EOLhyphen"/>ing for the coming of the Lord, and be filled with his Spirit, waiting, praying for the bleſſed Influences of the Spirit of God upon your Souls, uſing all the means you can to obtain it. And if Meſſengers, hearing that you have received the Word, pray for you that you may receive the Holy Ghoſt, join heartily with them; and in laying gentle Hands on you, if you receive more of the Spirit, you will be more for the
+<pb n="72" facs="tcp:172060:38"/>Honour of God, the Comfort of your Bre<g ref="char:EOLhyphen"/>thren, and walk as Lights in the World, and be as Salt in the Earth. O labour to have Salt in your ſelves, and Peace one with another, <hi>Mark</hi> 9.50.</p>
+               <p>I ſhall cloſe up this little Matter with thoſe words, 1 <hi>Pet.</hi> 1.17. <hi>If you call on the Father, who without reſpect of Perſons judgeth according to every Man's Work, paſs the time of your ſo<g ref="char:EOLhyphen"/>journing here in fear;</hi> Yea, give all diligence to thoſe ſeven things that lead to the King<g ref="char:EOLhyphen"/>dom, 2 <hi>Pet.</hi> 1. conſider 5, 6, 7, 8, 9, 10, 11 verſes. And labour to live ſo, as you may wiſh when your Eyes come to be cloſed, and when you come to Judgment, <hi>Eccleſ.</hi> 11.9. &amp; 12.14. And pray for the Lord's Labourers, and I will beg that Truth may live in your Souls when I am dead, and may ſhortly meet thoſe that fear God, and keep his Commandments, in never-ending Glory.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
